@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dentalbrokerteam.com/sitemap.xml
