@@ -1,6 +1,8 @@
-# dentalbrokerteam.com
+# dentalbrokerteam-com
 
-Static site for dentalbrokerteam.com.
+Eleventy / 11ty source site.
 
-Source factory repository: git@github.com:erikhsu70/pbns.git
-Cloudflare Pages project: dentalbrokerteam-com
+- Source: `src/`
+- Build command: `npm run build`
+- Output: `dist/`
+- Cloudflare Pages project: `dentalbrokerteam-com`
