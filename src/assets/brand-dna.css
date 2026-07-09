@@ -125,6 +125,13 @@ nav,.main-nav{gap:24px!important}
 .button,.apply-btn{border-radius:6px!important;text-transform:none!important}
 .section,.content-section{background-image:linear-gradient(90deg,rgba(34,127,137,.05) 1px,transparent 1px);background-size:64px 64px}
 
+
+.site-header{display:grid!important;grid-template-columns:260px 1fr!important;min-height:108px!important;align-items:end!important}
+.site-header nav{justify-content:flex-end!important;border-bottom:1px solid var(--dna-line);padding-bottom:12px!important}
+.hero{grid-template-columns:1.05fr .95fr!important}
+.service-grid{grid-template-columns:repeat(2,minmax(0,1fr))!important}
+.service-card{border-left:8px solid var(--dna-accent)!important}
+
 @media (max-width:980px){
   .hero,.split,.feature-row,.intro-grid,.story-grid,.form-section,.split-section,.article-layout{grid-template-columns:1fr!important}
   .services-grid,.solution-grid,.category-grid,.collection-grid,.post-grid,.article-grid{grid-template-columns:repeat(2,minmax(0,1fr))!important}
