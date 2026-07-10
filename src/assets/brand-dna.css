@@ -7,7 +7,7 @@
   --dna-radius:8px;
   --dna-shadow:0 16px 34px rgba(34,127,137,.11);
   --dna-heading:Arial, Helvetica, sans-serif;
-  --dna-font:Verdana, Geneva, sans-serif;
+  --dna-font:Segoe UI, Arial, sans-serif;
 }
 body{
   font-family:var(--dna-font);
