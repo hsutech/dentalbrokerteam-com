@@ -6,9 +6,11 @@
       "keyword": "best dental practice brokers in Ontario",
       "slug": "best-dental-practice-brokers-ontario",
       "title": "Best Dental Practice Brokers in Ontario: 7 Factors to Compare Before You Choose",
-      "status": "draft_ready_for_publish",
+      "status": "published",
       "publicationDate": "2026-07-16",
       "url": "https://dentalbrokerteam.com/blog/best-dental-practice-brokers-ontario/",
+      "commit": "259f0cfb131fb19ea0f78cd399644bdf992226a3",
+      "verifiedAt": "2026-07-16T04:44:00+02:00",
       "priority": "Alta",
       "serpTarget": "Google Canada / Ontario",
       "serpNotes": {
@@ -32,7 +34,14 @@
         "https://dentalbrokerteam.com/lets-talk/"
       ],
       "image": "/assets/blog/best-dental-practice-brokers-ontario.webp",
-      "notes": "Status will be changed to published only after successful push and live custom-domain verification."
+      "verification": {
+        "articleHttpStatus": 200,
+        "blogIndexContainsSlug": true,
+        "sitemapContainsSlug": true,
+        "imageHttpStatus": 200,
+        "canonical": "https://dentalbrokerteam.com/blog/best-dental-practice-brokers-ontario/"
+      },
+      "notes": "Published and verified on the custom domain after Cloudflare deployment."
     }
   ]
 }
