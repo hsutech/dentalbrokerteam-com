@@ -470,6 +470,18 @@ h3,
     repeating-linear-gradient(90deg, transparent 0 70px, rgba(255,255,255,.15) 70px 71px);
 }
 
+.article-featured-image {
+  margin: 30px 0 0;
+}
+
+.article-featured-image img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 18px;
+  border: 1px solid var(--line);
+}
+
 .article-layout {
   max-width: 1180px;
   margin: 0 auto;
@@ -494,6 +506,56 @@ h3,
   margin-top: 8px;
   text-decoration: none;
   color: var(--muted);
+}
+
+.article-body {
+  min-width: 0;
+}
+
+.article-body h3 {
+  margin-top: 28px;
+  font-size: 22px;
+}
+
+.article-body ul {
+  padding-left: 22px;
+}
+
+.article-body li + li {
+  margin-top: 8px;
+}
+
+.table-wrap {
+  width: 100%;
+  max-width: 100%;
+  overflow-x: auto;
+  margin: 24px 0 34px;
+  border: 1px solid var(--line);
+  border-radius: 14px;
+}
+
+.article-body table {
+  width: 100%;
+  min-width: 720px;
+  border-collapse: collapse;
+  background: var(--paper);
+}
+
+.article-body th,
+.article-body td {
+  padding: 16px;
+  border-bottom: 1px solid var(--line);
+  text-align: left;
+  vertical-align: top;
+}
+
+.article-body th {
+  background: #f1ece2;
+  color: var(--ink);
+}
+
+.article-body tr:last-child td {
+  border-bottom: 0;
 }
 
 .contact-grid {
