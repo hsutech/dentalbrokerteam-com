@@ -697,7 +697,13 @@ dd { margin: 0 0 14px; color: var(--muted); }
   .page-hero,
   .service-hero,
   .article-head { padding-left: 18px; padding-right: 18px; }
-  .main-nav { font-size: 13px; }
+  .main-nav {
+    flex-wrap: wrap;
+    gap: 10px 14px;
+    overflow-x: visible;
+    font-size: 13px;
+  }
+  .main-nav .nav-cta { padding: 9px 12px; }
   .hero h1,
   .page-hero h1,
   .service-hero h1,
