@@ -1,6 +1,6 @@
 {
   "domain": "dentalbrokerteam.com",
-  "lastRunAt": "2026-07-18T06:49:35+02:00",
+  "lastRunAt": "2026-07-21T06:40:42+02:00",
   "items": [
     {
       "keyword": "best dental practice brokers in Ontario",
@@ -86,6 +86,51 @@
         "mobileRenderOk": true
       },
       "notes": "Published and verified on the custom domain after Cloudflare deployment."
+    },
+    {
+      "keyword": "dental practice broker reviews Ontario",
+      "slug": "dental-practice-broker-reviews-ontario",
+      "title": "Dental Practice Broker Reviews Ontario: 7 Signals to Check Before You Choose",
+      "status": "published",
+      "publicationDate": "2026-07-21",
+      "url": "https://dentalbrokerteam.com/blog/dental-practice-broker-reviews-ontario/",
+      "commit": "69f8c688d3c59a5a6dc5b8ef4da02099e23b8a1d",
+      "verifiedAt": "2026-07-21T06:40:30+02:00",
+      "priority": "Alta",
+      "serpTarget": "Google Canada / Ontario",
+      "serpNotes": {
+        "intent": "Commercial BOFU: Ontario dentists comparing public reviews, testimonials and referrals before choosing broker help for a sale, valuation, purchase or transition.",
+        "observations": [
+          "Current results for the review-oriented keyword are dominated by testimonial pages, brokerage/service pages and general review infrastructure rather than independent Ontario rankings.",
+          "Relevant visible results include Tier Three testimonials, DentalPlace Ontario listing/service pages with testimonials, broader dental transition review pages such as Green Sail Transitions, TransitionOne, Henry Schein Dental Practice Transitions and PTI, plus Google Business review guidance.",
+          "Top pages often use short testimonials, star/review signals, author names or initials, CTAs, listing modules, service navigation and little or no neutral methodology, table of contents or regulatory context.",
+          "Gap identified: a neutral framework explaining how Ontario dentists should interpret reviews without inventing ratings, rankings or unverifiable best claims, with confidentiality and patient-information checks included."
+        ],
+        "sources": [
+          "https://tierthree.ca/testimonials/",
+          "https://dentalplace.ca/",
+          "https://support.google.com/business/answer/3474122",
+          "https://www.rcdso.org/en-ca/standards-guidelines-resources/rcdso-news/frequently-asked-questions/information-on-change-of-practice-ownership-and-retiring-"
+        ]
+      },
+      "internalLinks": [
+        "https://dentalbrokerteam.com/blog/best-dental-practice-brokers-ontario/",
+        "https://dentalbrokerteam.com/appraisals/",
+        "https://dentalbrokerteam.com/sell/",
+        "https://dentalbrokerteam.com/lets-talk/"
+      ],
+      "image": "/assets/blog/dental-practice-broker-reviews-ontario.webp",
+      "verification": {
+        "articleHttpStatus": 200,
+        "blogIndexContainsSlug": true,
+        "sitemapContainsSlug": true,
+        "imageHttpStatus": 200,
+        "canonical": "https://dentalbrokerteam.com/blog/dental-practice-broker-reviews-ontario/",
+        "desktopRenderOk": true,
+        "localBrowserRenderOk": true,
+        "mobileResponsiveCssVerified": true
+      },
+      "notes": "Published and verified on the custom domain after Cloudflare deployment. Local browser render passed for article content, image and overflow; responsive CSS collapses article layout below 1020px."
     }
   ]
 }
