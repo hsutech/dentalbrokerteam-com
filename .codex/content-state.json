@@ -1,6 +1,6 @@
 {
   "domain": "dentalbrokerteam.com",
-  "lastRunAt": "2026-07-21T06:40:42+02:00",
+  "lastRunAt": "2026-07-28T08:39:50+02:00",
   "items": [
     {
       "keyword": "best dental practice brokers in Ontario",
@@ -131,6 +131,54 @@
         "mobileResponsiveCssVerified": true
       },
       "notes": "Published and verified on the custom domain after Cloudflare deployment. Local browser render passed for article content, image and overflow; responsive CSS collapses article layout below 1020px."
+    },
+    {
+      "keyword": "best way to sell a dental practice in Ontario",
+      "slug": "best-way-to-sell-a-dental-practice-ontario",
+      "title": "Best Way to Sell a Dental Practice in Ontario: 7 Steps Before You Go to Market",
+      "status": "published",
+      "publicationDate": "2026-07-28",
+      "url": "https://dentalbrokerteam.com/blog/best-way-to-sell-a-dental-practice-ontario/",
+      "commit": "6ed05f2565047ac7ebb0e95b6f3287803cb1401e",
+      "verifiedAt": "2026-07-28T08:39:50+02:00",
+      "priority": "Alta",
+      "serpTarget": "Google Canada / Ontario",
+      "serpNotes": {
+        "intent": "Commercial BOFU: Ontario dentists deciding the strongest route to sell a dental practice before committing to a broker-led, private or preparation-first process.",
+        "observations": [
+          "Current relevant results are dominated by broker/service pages, dental practice marketplaces and legal guidance rather than neutral editorial comparison guides.",
+          "Relevant pages include Professional Practice Sales Ontario, Tier Three Brokerage, DentalPlace, Delta Law Firm legal guidance, RCDSO ownership-change guidance and broader dental practice sale guides from non-Ontario markets.",
+          "Top relevant pages commonly use service-page CTAs, team credentials, valuation/seller support sections, testimonials, FAQs, process steps and marketplace/listing modules; most do not provide a neutral route-selection framework.",
+          "Coverage gaps include when a private associate/known-buyer sale can be better, how confidentiality should be staged, how buyer screening differs from buyer interest, and why legal/tax role boundaries matter before closing."
+        ],
+        "sources": [
+          "https://www.ppsales.com/ontario/",
+          "https://tierthree.ca/sell-your-practice/",
+          "https://dentalplace.ca/",
+          "https://www.rcdso.org/en-ca/standards-guidelines-resources/rcdso-news/frequently-asked-questions/information-on-change-of-practice-ownership-and-retiring-",
+          "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/selling-business.html"
+        ]
+      },
+      "internalLinks": [
+        "https://dentalbrokerteam.com/appraisals/",
+        "https://dentalbrokerteam.com/sell/",
+        "https://dentalbrokerteam.com/blog/best-dental-practice-brokers-ontario/",
+        "https://dentalbrokerteam.com/lets-talk/"
+      ],
+      "image": "/assets/blog/best-way-to-sell-a-dental-practice-ontario-20260728.webp",
+      "verification": {
+        "articleHttpStatus": 200,
+        "blogIndexContainsSlug": true,
+        "sitemapContainsSlug": true,
+        "imageHttpStatus": 200,
+        "imageContentType": "image/webp",
+        "canonical": "https://dentalbrokerteam.com/blog/best-way-to-sell-a-dental-practice-ontario/",
+        "h1Verified": true,
+        "localBuildPassed": true,
+        "localHttpQaPassed": true,
+        "visualBrowserCheckAvailable": false
+      },
+      "notes": "Published and verified on the custom domain after Cloudflare deployment. Browser screenshot tooling was unavailable in this environment; local build, local HTTP checks and live HTTP/content checks passed."
     }
   ]
 }
