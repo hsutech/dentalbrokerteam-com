@@ -176,9 +176,12 @@
         "h1Verified": true,
         "localBuildPassed": true,
         "localHttpQaPassed": true,
-        "visualBrowserCheckAvailable": false
+        "visualBrowserCheckAvailable": true,
+        "desktopRenderOk": true,
+        "mobileRenderOk": true,
+        "mobileRenderViewport": "Chrome headless 500px clean; 390px command path observed a 500px layout viewport cropped to 390px, so CSS was constrained for real mobile viewports."
       },
-      "notes": "Published and verified on the custom domain after Cloudflare deployment. Browser screenshot tooling was unavailable in this environment; local build, local HTTP checks and live HTTP/content checks passed."
+      "notes": "Published and verified on the custom domain after Cloudflare deployment. Chrome headless desktop and mobile-width render checks passed after a responsive header overflow fix."
     }
   ]
 }

@@ -18,6 +18,12 @@
 
 html { scroll-behavior: smooth; }
 
+html,
+body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
 body {
   margin: 0;
   font-family: Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
@@ -54,6 +60,7 @@ h3,
 }
 
 .header-inner {
+  width: 100%;
   max-width: 1240px;
   margin: 0 auto;
   padding: 15px 24px;
@@ -61,6 +68,7 @@ h3,
   align-items: center;
   justify-content: space-between;
   gap: 28px;
+  min-width: 0;
 }
 
 .brand {
@@ -98,9 +106,12 @@ h3,
   gap: 25px;
   font-size: 14px;
   font-weight: 700;
+  min-width: 0;
+  max-width: 100%;
 }
 
 .main-nav a {
+  flex: 0 1 auto;
   text-decoration: none;
   color: rgba(25, 40, 49, .78);
 }
@@ -452,6 +463,7 @@ h3,
 }
 
 .article-head {
+  width: 100%;
   max-width: 980px;
   margin: 0 auto;
 }
@@ -692,22 +704,50 @@ dd { margin: 0 0 14px; color: var(--muted); }
 }
 
 @media (max-width: 650px) {
+  .site-header,
+  main {
+    max-width: 100vw;
+    overflow-x: hidden;
+  }
   .header-inner,
   .section,
   .page-hero,
   .service-hero,
   .article-head { padding-left: 18px; padding-right: 18px; }
+  .article-head,
+  .article-layout {
+    width: 100%;
+    max-width: 100vw;
+  }
   .main-nav {
-    flex-wrap: wrap;
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    width: calc(100vw - 36px);
     gap: 10px 14px;
     overflow-x: visible;
     font-size: 13px;
   }
-  .main-nav .nav-cta { padding: 9px 12px; }
+  .main-nav a { min-width: 0; }
+  .main-nav .nav-cta {
+    grid-column: 1 / -1;
+    justify-self: start;
+    padding: 9px 12px;
+  }
+  .article-head h1,
+  .article-head p {
+    width: calc(100vw - 36px);
+    max-width: 100%;
+    overflow-wrap: break-word;
+  }
+  .article-featured-image,
+  .article-featured-image img {
+    width: calc(100vw - 36px);
+    max-width: 100%;
+  }
   .hero h1,
   .page-hero h1,
   .service-hero h1,
-  .article-head h1 { font-size: 42px; }
+  .article-head h1 { font-size: 34px; }
   .hero-visual { min-height: 410px; padding: 22px; }
   .floating-card { width: 92%; }
   .chart-panel { padding: 20px; }
