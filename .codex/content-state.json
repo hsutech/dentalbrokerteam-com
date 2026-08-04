@@ -1,6 +1,6 @@
 {
   "domain": "dentalbrokerteam.com",
-  "lastRunAt": "2026-07-28T08:39:50+02:00",
+  "lastRunAt": "2026-08-04T13:13:46+02:00",
   "items": [
     {
       "keyword": "best dental practice brokers in Ontario",
@@ -182,6 +182,58 @@
         "mobileRenderViewport": "Chrome headless 500px clean; 390px command path observed a 500px layout viewport cropped to 390px, so CSS was constrained for real mobile viewports."
       },
       "notes": "Published and verified on the custom domain after Cloudflare deployment. Chrome headless desktop and mobile-width render checks passed after a responsive header overflow fix."
+    },
+    {
+      "keyword": "best dental practices for sale in Ontario",
+      "slug": "best-dental-practices-for-sale-ontario",
+      "title": "Best Dental Practices for Sale in Ontario: 7 Listing Checks Before You Inquire",
+      "status": "pending_verification",
+      "publicationDate": "2026-08-04",
+      "url": "https://dentalbrokerteam.com/blog/best-dental-practices-for-sale-ontario/",
+      "commit": null,
+      "verifiedAt": null,
+      "priority": "Alta",
+      "serpTarget": "Google Canada / Ontario",
+      "serpNotes": {
+        "intent": "Commercial BOFU: Ontario dentists and associates comparing current dental practices for sale before registering, signing an NDA, asking for confidential details or making an offer.",
+        "observations": [
+          "Current relevant results are dominated by live inventory pages, broker marketplaces, professional job/ad boards and classified-style practice opportunity pages rather than neutral editorial buyer guidance.",
+          "DentalPlace presents Ontario dental practices for sale with buyer registration before complete details and public listing signals such as status, production, square footage and operatories.",
+          "Tier Three and MBC Brokerage use filterable/current listing patterns with geography, practice type, value or cash-flow signals, availability/status and broker-led next steps.",
+          "ODA and University of Toronto practice opportunity pages surface individual practice-for-sale ads or broader job/ad boards, often with variable detail and less buyer-side diligence context.",
+          "Gap identified: a neutral BOFU framework for deciding which listings deserve confidential inquiry, lender time and diligence, without claiming any currently listed practice is objectively best."
+        ],
+        "sources": [
+          "https://dentalplace.ca/",
+          "https://tierthree.ca/",
+          "https://www.mbcbrokerage.ca/current-listings",
+          "https://www.oda.ca/job-ad-board/?pg=1",
+          "https://practiceops.dentistry.utoronto.ca/",
+          "https://www.rcdso.org/en-ca/standards-guidelines-resources/rcdso-news/frequently-asked-questions/information-on-change-of-practice-ownership-and-retiring-"
+        ]
+      },
+      "internalLinks": [
+        "https://dentalbrokerteam.com/listings/",
+        "https://dentalbrokerteam.com/buyers/",
+        "https://dentalbrokerteam.com/blog/buying-a-dental-practice-guide/",
+        "https://dentalbrokerteam.com/blog/best-dental-practice-brokers-ontario/",
+        "https://dentalbrokerteam.com/lets-talk/"
+      ],
+      "image": "/assets/blog/best-dental-practices-for-sale-ontario-20260804.webp",
+      "verification": {
+        "localBuildPassed": true,
+        "localHttpQaPassed": true,
+        "localArticleHttpStatus": 200,
+        "localImageHttpStatus": 200,
+        "localImageContentType": "image/webp",
+        "localBlogIndexContainsSlug": true,
+        "localSitemapContainsSlug": true,
+        "canonical": "https://dentalbrokerteam.com/blog/best-dental-practices-for-sale-ontario/",
+        "h1Verified": true,
+        "visualBrowserCheckAvailable": false,
+        "visualBrowserCheckNote": "Playwright package was present but Chromium executable was not installed; fallback HTML, metadata, link, image and local HTTP QA passed."
+      },
+      "notes": "Prepared for publication and awaiting final custom-domain verification after push."
     }
   ]
 }
