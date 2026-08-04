@@ -1,6 +1,6 @@
 {
   "domain": "dentalbrokerteam.com",
-  "lastRunAt": "2026-08-04T13:13:46+02:00",
+  "lastRunAt": "2026-08-04T13:18:33+02:00",
   "items": [
     {
       "keyword": "best dental practice brokers in Ontario",
@@ -187,11 +187,11 @@
       "keyword": "best dental practices for sale in Ontario",
       "slug": "best-dental-practices-for-sale-ontario",
       "title": "Best Dental Practices for Sale in Ontario: 7 Listing Checks Before You Inquire",
-      "status": "pending_verification",
+      "status": "published",
       "publicationDate": "2026-08-04",
       "url": "https://dentalbrokerteam.com/blog/best-dental-practices-for-sale-ontario/",
-      "commit": null,
-      "verifiedAt": null,
+      "commit": "83e2dcc3032577d16b0b6825cf974f9c4faea5e6",
+      "verifiedAt": "2026-08-04T13:18:33+02:00",
       "priority": "Alta",
       "serpTarget": "Google Canada / Ontario",
       "serpNotes": {
@@ -230,10 +230,15 @@
         "localSitemapContainsSlug": true,
         "canonical": "https://dentalbrokerteam.com/blog/best-dental-practices-for-sale-ontario/",
         "h1Verified": true,
+        "articleHttpStatus": 200,
+        "blogIndexContainsSlug": true,
+        "sitemapContainsSlug": true,
+        "imageHttpStatus": 200,
+        "imageContentType": "image/webp",
         "visualBrowserCheckAvailable": false,
         "visualBrowserCheckNote": "Playwright package was present but Chromium executable was not installed; fallback HTML, metadata, link, image and local HTTP QA passed."
       },
-      "notes": "Prepared for publication and awaiting final custom-domain verification after push."
+      "notes": "Published and verified on the custom domain after Cloudflare deployment. GitHub Actions deploy for commit 83e2dcc completed successfully; live article, H1, canonical, image, blog index and sitemap checks passed."
     }
   ]
 }
