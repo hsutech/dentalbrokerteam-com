@@ -1,6 +1,6 @@
 {
   "domain": "dentalbrokerteam.com",
-  "lastRunAt": "2026-08-06T06:50:00+02:00",
+  "lastRunAt": "2026-08-06T06:53:45+02:00",
   "items": [
     {
       "keyword": "best dental practice brokers in Ontario",
@@ -244,10 +244,10 @@
       "keyword": "dental practice transition consultants Ontario",
       "slug": "dental-practice-transition-consultants-ontario",
       "title": "Dental Practice Transition Consultants Ontario: 7 Checks Before You Choose",
-      "status": "pushed_unverified",
+      "status": "published",
       "publicationDate": "2026-08-06",
       "url": "https://dentalbrokerteam.com/blog/dental-practice-transition-consultants-ontario/",
-      "commit": null,
+      "commit": "411d6e006199ff0b4464afff0edae29dd0f1107f",
       "priority": "Alta",
       "serpTarget": "Google Canada / Ontario",
       "serpNotes": {
@@ -286,9 +286,16 @@
         "h1Verified": true,
         "desktopRenderOk": true,
         "mobileRenderOk": true,
-        "mobileRenderViewport": "Chrome headless 500px render passed; 390px command path crops a wider minimum layout on this macOS Chrome build."
+        "mobileRenderViewport": "Chrome headless 500px render passed; 390px command path crops a wider minimum layout on this macOS Chrome build.",
+        "articleHttpStatus": 200,
+        "blogIndexContainsSlug": true,
+        "sitemapContainsSlug": true,
+        "imageHttpStatus": 200,
+        "imageContentType": "image/webp",
+        "liveVerificationAttempt": 2
       },
-      "notes": "Article, featured image, blog index, sitemap, schema, local build, HTTP QA and headless render checks prepared. Awaiting push/live custom-domain verification."
+      "notes": "Published and verified on the custom domain after GitHub Actions/Cloudflare deployment. Live article, H1, canonical, image, blog index, sitemap and desktop/mobile-width render checks passed.",
+      "verifiedAt": "2026-08-06T06:53:45+02:00"
     }
   ]
 }
