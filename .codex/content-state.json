@@ -1,6 +1,6 @@
 {
   "domain": "dentalbrokerteam.com",
-  "lastRunAt": "2026-08-04T13:18:33+02:00",
+  "lastRunAt": "2026-08-06T06:50:00+02:00",
   "items": [
     {
       "keyword": "best dental practice brokers in Ontario",
@@ -239,6 +239,56 @@
         "visualBrowserCheckNote": "Playwright package was present but Chromium executable was not installed; fallback HTML, metadata, link, image and local HTTP QA passed."
       },
       "notes": "Published and verified on the custom domain after Cloudflare deployment. GitHub Actions deploy for commit 83e2dcc completed successfully; live article, H1, canonical, image, blog index and sitemap checks passed."
+    },
+    {
+      "keyword": "dental practice transition consultants Ontario",
+      "slug": "dental-practice-transition-consultants-ontario",
+      "title": "Dental Practice Transition Consultants Ontario: 7 Checks Before You Choose",
+      "status": "pushed_unverified",
+      "publicationDate": "2026-08-06",
+      "url": "https://dentalbrokerteam.com/blog/dental-practice-transition-consultants-ontario/",
+      "commit": null,
+      "priority": "Alta",
+      "serpTarget": "Google Canada / Ontario",
+      "serpNotes": {
+        "intent": "Commercial BOFU: Ontario dentists comparing dental practice transition consultants before selling, buying, retiring, structuring an associate buy-in or planning an ownership handoff.",
+        "observations": [
+          "Current relevant results are dominated by service pages and homepages from dental transition consultants, brokers and advisory firms rather than independent editorial rankings.",
+          "Visible pages commonly emphasize transition consulting, buyer/seller support, valuations, financing networks, legal coordination, testimonials, consultation CTAs, team bios and broad service menus.",
+          "Typical coverage is conversion-led and relatively concise; few results explain how to compare role clarity, confidentiality controls, valuation process, buyer/seller screening, advisor handoffs and post-closing transition planning.",
+          "Gap identified: a neutral BOFU checklist for Ontario dentists that distinguishes broker-led transition support, valuation/planning consulting and buyer-side acquisition advice without unverifiable best claims."
+        ],
+        "sources": [
+          "https://cassp.ca/",
+          "https://www.marcdentalsolutions.com/about",
+          "https://dentalpractices.ca/",
+          "https://www.rcdso.org/en-ca/standards-guidelines-resources/rcdso-news/frequently-asked-questions/information-on-change-of-practice-ownership-and-retiring-",
+          "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/selling-business.html"
+        ]
+      },
+      "internalLinks": [
+        "https://dentalbrokerteam.com/sell/",
+        "https://dentalbrokerteam.com/appraisals/",
+        "https://dentalbrokerteam.com/buyers/",
+        "https://dentalbrokerteam.com/blog/dental-practice-transition-checklist/",
+        "https://dentalbrokerteam.com/lets-talk/"
+      ],
+      "image": "/assets/blog/dental-practice-transition-consultants-ontario-20260805.webp",
+      "verification": {
+        "localBuildPassed": true,
+        "localHttpQaPassed": true,
+        "localArticleHttpStatus": 200,
+        "localImageHttpStatus": 200,
+        "localImageContentType": "image/webp",
+        "localBlogIndexContainsSlug": true,
+        "localSitemapContainsSlug": true,
+        "canonical": "https://dentalbrokerteam.com/blog/dental-practice-transition-consultants-ontario/",
+        "h1Verified": true,
+        "desktopRenderOk": true,
+        "mobileRenderOk": true,
+        "mobileRenderViewport": "Chrome headless 500px render passed; 390px command path crops a wider minimum layout on this macOS Chrome build."
+      },
+      "notes": "Article, featured image, blog index, sitemap, schema, local build, HTTP QA and headless render checks prepared. Awaiting push/live custom-domain verification."
     }
   ]
 }
