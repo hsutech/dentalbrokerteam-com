@@ -1,6 +1,6 @@
 {
   "domain": "dentalbrokerteam.com",
-  "lastRunAt": "2026-08-09T06:53:00+02:00",
+  "lastRunAt": "2026-08-09T06:57:00+02:00",
   "items": [
     {
       "keyword": "best dental practice brokers in Ontario",
@@ -301,10 +301,10 @@
       "keyword": "best dental practice appraisers in Canada",
       "slug": "best-dental-practice-appraisers-canada",
       "title": "Best Dental Practice Appraisers in Canada: 7 Checks Before You Choose",
-      "status": "pushed_unverified",
+      "status": "published",
       "publicationDate": "2026-08-09",
       "url": "https://dentalbrokerteam.com/blog/best-dental-practice-appraisers-canada/",
-      "commit": null,
+      "commit": "966a3b9b9cc398ec094a954f4fb97452e32be803",
       "priority": "Alta",
       "serpTarget": "Google Canada / Ontario",
       "serpNotes": {
@@ -342,9 +342,16 @@
         "h1Verified": true,
         "desktopRenderOk": true,
         "mobileRenderOk": true,
-        "mobileCssFixApplied": true
+        "mobileCssFixApplied": true,
+        "articleHttpStatus": 200,
+        "blogIndexContainsSlug": true,
+        "sitemapContainsSlug": true,
+        "imageHttpStatus": 200,
+        "imageContentType": "image/webp",
+        "liveVerificationAttempt": 2
       },
-      "notes": "Article source, blog index, sitemap, schema and generated WebP image prepared. Static local QA and Chrome desktop/mobile screenshots passed. Awaiting push/live verification; local Eleventy build timed out without an emitted template error."
+      "notes": "Published and verified on the custom domain after GitHub Actions/Cloudflare deployment. Live article, H1, canonical, image, blog index, sitemap and desktop/mobile render checks passed. Local Eleventy build timed out, but GitHub Actions Eleventy build succeeded for the article commit.",
+      "verifiedAt": "2026-08-09T06:57:00+02:00"
     }
   ]
 }
