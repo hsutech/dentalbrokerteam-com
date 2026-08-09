@@ -716,16 +716,23 @@ dd { margin: 0 0 14px; color: var(--muted); }
   .page-hero,
   .service-hero,
   .article-head { padding-left: 18px; padding-right: 18px; }
+  .header-inner,
+  .article-head,
+  .article-layout {
+    max-width: 390px;
+    margin-left: 0;
+    margin-right: 0;
+  }
   .article-head,
   .article-layout {
     width: 100%;
-    max-width: 100%;
   }
   .article-layout { padding-left: 18px; padding-right: 18px; }
   .main-nav {
     display: grid;
-    grid-template-columns: repeat(3, minmax(0, 1fr));
-    width: calc(100vw - 36px);
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    width: 100%;
+    max-width: 354px;
     gap: 10px 14px;
     overflow-x: visible;
     font-size: 13px;

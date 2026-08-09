@@ -1,6 +1,6 @@
 {
   "domain": "dentalbrokerteam.com",
-  "lastRunAt": "2026-08-06T06:53:45+02:00",
+  "lastRunAt": "2026-08-09T06:53:00+02:00",
   "items": [
     {
       "keyword": "best dental practice brokers in Ontario",
@@ -296,6 +296,55 @@
       },
       "notes": "Published and verified on the custom domain after GitHub Actions/Cloudflare deployment. Live article, H1, canonical, image, blog index, sitemap and desktop/mobile-width render checks passed.",
       "verifiedAt": "2026-08-06T06:53:45+02:00"
+    },
+    {
+      "keyword": "best dental practice appraisers in Canada",
+      "slug": "best-dental-practice-appraisers-canada",
+      "title": "Best Dental Practice Appraisers in Canada: 7 Checks Before You Choose",
+      "status": "pushed_unverified",
+      "publicationDate": "2026-08-09",
+      "url": "https://dentalbrokerteam.com/blog/best-dental-practice-appraisers-canada/",
+      "commit": null,
+      "priority": "Alta",
+      "serpTarget": "Google Canada / Ontario",
+      "serpNotes": {
+        "intent": "Commercial BOFU: Canadian dentists comparing dental practice appraisers before relying on a valuation for sale, purchase, financing, succession, partner planning or dispute work.",
+        "observations": [
+          "Current relevant results are dominated by dental appraisal and practice valuation service pages, directories and consulting pages rather than independent rankings.",
+          "Visible provider pages commonly emphasize dental-specific appraisal services, transition planning, consultation CTAs, credentials, appraisal uses and practice economics, with limited neutral comparison methodology.",
+          "The SERP overlaps with valuation-service searches, so the article differentiates by focusing on appraiser selection, independence, report reliance, CBV standards and Canadian/provincial context rather than Ontario-only valuation services.",
+          "Gap identified: a BOFU checklist that explains when broker-led appraisals, independent dental valuations, CBV reports or preliminary estimates are appropriate without inventing a universal best appraiser ranking."
+        ],
+        "sources": [
+          "https://www.dentappraisal.com/",
+          "https://dentalstrategy.ca/practice-valuation/",
+          "https://cbvinstitute.com/members-students/standards-ethics/practice-standards/",
+          "https://www.rcdso.org/en-ca/standards-guidelines-resources/rcdso-news/frequently-asked-questions/information-on-change-of-practice-ownership-and-retiring-"
+        ]
+      },
+      "internalLinks": [
+        "https://dentalbrokerteam.com/appraisals/",
+        "https://dentalbrokerteam.com/blog/best-dental-practice-valuation-services-ontario/",
+        "https://dentalbrokerteam.com/sell/",
+        "https://dentalbrokerteam.com/lets-talk/"
+      ],
+      "image": "/assets/blog/best-dental-practice-appraisers-canada-20260809.webp",
+      "verification": {
+        "localBuildPassed": false,
+        "localBuildNote": "npm run build invoked Eleventy and hung for 90 seconds with no template error before being stopped; local static HTTP QA was used as fallback, consistent with prior local Eleventy runtime issues.",
+        "localStaticQaPassed": true,
+        "localArticleHttpStatus": 200,
+        "localImageHttpStatus": 200,
+        "localImageContentType": "image/webp",
+        "localBlogIndexContainsSlug": true,
+        "localSitemapContainsSlug": true,
+        "canonical": "https://dentalbrokerteam.com/blog/best-dental-practice-appraisers-canada/",
+        "h1Verified": true,
+        "desktopRenderOk": true,
+        "mobileRenderOk": true,
+        "mobileCssFixApplied": true
+      },
+      "notes": "Article source, blog index, sitemap, schema and generated WebP image prepared. Static local QA and Chrome desktop/mobile screenshots passed. Awaiting push/live verification; local Eleventy build timed out without an emitted template error."
     }
   ]
 }
