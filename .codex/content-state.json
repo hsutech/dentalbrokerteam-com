@@ -1,6 +1,6 @@
 {
   "domain": "dentalbrokerteam.com",
-  "lastRunAt": "2026-08-13T06:36:29+02:00",
+  "lastRunAt": "2026-08-13T06:45:45+02:00",
   "items": [
     {
       "keyword": "best dental practice brokers in Ontario",
@@ -417,10 +417,10 @@
       "keyword": "best dental brokers for buyers Ontario",
       "slug": "best-dental-brokers-for-buyers-ontario",
       "title": "Best Dental Brokers for Buyers Ontario: 7 Checks Before You Choose",
-      "status": "pushed_unverified",
+      "status": "published",
       "publicationDate": "2026-08-13",
       "url": "https://dentalbrokerteam.com/blog/best-dental-brokers-for-buyers-ontario/",
-      "commit": null,
+      "commit": "4352228f",
       "priority": "Alta",
       "serpTarget": "Google Canada / Ontario",
       "serpNotes": {
@@ -454,9 +454,26 @@
         "wordCount": 2024,
         "h1Verified": true,
         "canonical": "https://dentalbrokerteam.com/blog/best-dental-brokers-for-buyers-ontario/",
-        "imageContentType": "image/webp"
+        "imageContentType": "image/webp",
+        "localBuildPassed": false,
+        "localBuildNote": "npm run build invoked Eleventy and hung for approximately 60 seconds with no template error before being stopped; local static HTTP QA was used as fallback, consistent with prior local Eleventy runtime issues.",
+        "localHttpQaPassed": true,
+        "localArticleHttpStatus": 200,
+        "localImageHttpStatus": 200,
+        "localBlogIndexContainsSlug": true,
+        "localSitemapContainsSlug": true,
+        "articleHttpStatus": 200,
+        "blogIndexContainsSlug": true,
+        "sitemapContainsSlug": true,
+        "imageHttpStatus": 200,
+        "liveVerificationAttempt": 2,
+        "desktopRenderOk": true,
+        "mobileRenderOk": true,
+        "desktopScreenshot": "/private/tmp/dbt-buyers-desktop.png",
+        "mobileScreenshot": "/private/tmp/dbt-buyers-mobile.png"
       },
-      "notes": "Prepared and pushed for Cloudflare deployment; final live verification pending."
+      "notes": "Published and verified on the custom domain after Cloudflare deployment. Live article, H1, canonical, image, blog index, sitemap and desktop/mobile Chrome headless render checks passed. Local Eleventy build timed out without emitting a template error.",
+      "verifiedAt": "2026-08-13T06:45:45+02:00"
     }
   ]
 }
