@@ -1,6 +1,6 @@
 {
   "domain": "dentalbrokerteam.com",
-  "lastRunAt": "2026-08-10T06:43:56+02:00",
+  "lastRunAt": "2026-08-13T06:36:29+02:00",
   "items": [
     {
       "keyword": "best dental practice brokers in Ontario",
@@ -412,6 +412,51 @@
       },
       "notes": "Published and verified on the custom domain after GitHub Actions/Cloudflare deployment. Live article, H1, canonical, image, blog index, sitemap and desktop/mobile render checks passed. Local Eleventy build timed out, but GitHub Actions Eleventy build succeeded for the article commit.",
       "verifiedAt": "2026-08-10T06:43:56+02:00"
+    },
+    {
+      "keyword": "best dental brokers for buyers Ontario",
+      "slug": "best-dental-brokers-for-buyers-ontario",
+      "title": "Best Dental Brokers for Buyers Ontario: 7 Checks Before You Choose",
+      "status": "pushed_unverified",
+      "publicationDate": "2026-08-13",
+      "url": "https://dentalbrokerteam.com/blog/best-dental-brokers-for-buyers-ontario/",
+      "commit": null,
+      "priority": "Alta",
+      "serpTarget": "Google Canada / Ontario",
+      "serpNotes": {
+        "intent": "Commercial BOFU: Ontario dentists and practice owners comparing buyer-side broker, marketplace and acquisition-advisory support before pursuing or evaluating a dental practice purchase.",
+        "observations": [
+          "Current relevant results are mixed rather than a clean ranking SERP: buyer-only advisory pages, Ontario listing marketplaces, consulting/service pages, professional ad-board posts and broader broker pages all appear.",
+          "BuySide M&A Advisors positions around buyer-only dental acquisition advisory, with a structured framework covering strategy, financial readiness, sourcing, due diligence, valuation, negotiation and transition.",
+          "DentalPlace presents an Ontario dental practice marketplace/database with buyer registration before complete listing details, showing that opportunity access and confidentiality are central to the intent.",
+          "ODA ad-board results show private buyer demand signals, while C. Paolella Consulting and similar pages emphasize buyer support, valuations, transition consulting and deal review rather than neutral broker rankings.",
+          "Gap identified: a buyer-focused BOFU checklist explaining representation, opportunity access, buyer qualification, valuation discipline, diligence, Ontario privacy/regulatory constraints and post-closing support without inventing a best-broker ranking."
+        ],
+        "sources": [
+          "https://buysideadvisors.ca/",
+          "https://dentalplace.ca/",
+          "https://www.oda.ca/member-resources/job-ad-board/job/buying-practice-2/",
+          "https://cassp.ca/",
+          "https://www.rcdso.org/en-ca/standards-guidelines-resources/rcdso-news/frequently-asked-questions/information-on-change-of-practice-ownership-and-retiring-",
+          "https://www.ipc.on.ca/en/health-organizations"
+        ]
+      },
+      "internalLinks": [
+        "https://dentalbrokerteam.com/blog/best-dental-practice-brokers-ontario/",
+        "https://dentalbrokerteam.com/blog/buying-a-dental-practice-guide/",
+        "https://dentalbrokerteam.com/listings/",
+        "https://dentalbrokerteam.com/buyers/",
+        "https://dentalbrokerteam.com/lets-talk/"
+      ],
+      "image": "/assets/blog/best-dental-brokers-for-buyers-ontario-20260811.webp",
+      "verification": {
+        "localEditorialSeoReviewPassed": true,
+        "wordCount": 2024,
+        "h1Verified": true,
+        "canonical": "https://dentalbrokerteam.com/blog/best-dental-brokers-for-buyers-ontario/",
+        "imageContentType": "image/webp"
+      },
+      "notes": "Prepared and pushed for Cloudflare deployment; final live verification pending."
     }
   ]
 }
