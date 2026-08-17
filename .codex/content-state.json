@@ -1,6 +1,6 @@
 {
   "domain": "dentalbrokerteam.com",
-  "lastRunAt": "2026-08-13T06:45:45+02:00",
+  "lastRunAt": "2026-08-17T06:42:12+02:00",
   "items": [
     {
       "keyword": "best dental practice brokers in Ontario",
@@ -474,6 +474,74 @@
       },
       "notes": "Published and verified on the custom domain after Cloudflare deployment. Live article, H1, canonical, image, blog index, sitemap and desktop/mobile Chrome headless render checks passed. Local Eleventy build timed out without emitting a template error.",
       "verifiedAt": "2026-08-13T06:45:45+02:00"
+    },
+    {
+      "keyword": "best dental brokers for sellers Ontario",
+      "slug": "best-dental-brokers-for-sellers-ontario",
+      "title": "Best Dental Brokers for Sellers Ontario: 7 Checks Before You Choose",
+      "status": "published",
+      "publicationDate": "2026-08-17",
+      "url": "https://dentalbrokerteam.com/blog/best-dental-brokers-for-sellers-ontario/",
+      "commit": "31b332c5d3e5cbe88d06f785a77f85af975b4e98",
+      "priority": "Alta",
+      "serpTarget": "Google Canada / Ontario",
+      "serpNotes": {
+        "intent": "Commercial BOFU: Ontario dental practice sellers comparing broker, legal-led marketplace and seller-advocacy options before valuation, confidential marketing, buyer screening and transition planning.",
+        "observations": [
+          "Current relevant results are dominated by provider/service pages, marketplaces and seller advocacy pages rather than independent editorial rankings.",
+          "DentalPlace and DMC emphasize a legal-led Ontario marketplace, vetted buyer access, fixed-fee/legal positioning and seller preparation before listing.",
+          "PPS Ontario and Tier Three-style brokerage pages emphasize valuation, tailored marketing, buyer fit, advisor/team credentials, testimonials, listings and consultation CTAs.",
+          "Practice Advocate and PPA-type results position around seller advocacy, confidentiality, qualified buyer outcomes and alternatives to traditional commission-led brokerage.",
+          "Regulatory and government sources add seller-side diligence constraints: Ontario representation/confidentiality duties, RCDSO patient notification/change-of-ownership guidance and CRA sale/tax considerations.",
+          "Gap identified: a neutral seller-focused BOFU checklist that avoids unverifiable best-broker claims and compares process control, confidentiality, valuation discipline, role clarity, fees, buyer quality and post-interest transition management."
+        ],
+        "sources": [
+          "https://dentalplace.ca/",
+          "https://www.ppsales.com/ontario/",
+          "https://practiceadvocate.ca/seller-advocacy/",
+          "https://tierthree.ca/sell-your-practice/",
+          "https://dentistlawyers.ca/selling-a-practice/",
+          "https://www.reco.on.ca/recoinformationguide/view-the-reco-information-guide",
+          "https://www.rcdso.org/en-ca/standards-guidelines-resources/rcdso-news/frequently-asked-questions/information-on-change-of-practice-ownership-and-retiring-",
+          "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/selling-business.html"
+        ]
+      },
+      "internalLinks": [
+        "https://dentalbrokerteam.com/blog/best-dental-practice-brokers-ontario/",
+        "https://dentalbrokerteam.com/blog/best-way-to-sell-a-dental-practice-ontario/",
+        "https://dentalbrokerteam.com/appraisals/",
+        "https://dentalbrokerteam.com/blog/best-dental-practices-for-sale-ontario/",
+        "https://dentalbrokerteam.com/sell/",
+        "https://dentalbrokerteam.com/blog/dental-practice-transition-checklist/",
+        "https://dentalbrokerteam.com/lets-talk/"
+      ],
+      "image": "/assets/blog/best-dental-brokers-for-sellers-ontario-20260815.webp",
+      "verification": {
+        "localEditorialSeoReviewPassed": true,
+        "wordCount": 1962,
+        "h1Verified": true,
+        "canonical": "https://dentalbrokerteam.com/blog/best-dental-brokers-for-sellers-ontario/",
+        "imageContentType": "image/webp",
+        "localBuildPassed": false,
+        "localBuildNote": "npm run build invoked Eleventy and hung for approximately 60 seconds with no template error before being stopped; local static HTTP QA and GitHub Actions deploy were used as fallback, consistent with prior local Eleventy runtime issues.",
+        "localHttpQaPassed": true,
+        "localArticleHttpStatus": 200,
+        "localImageHttpStatus": 200,
+        "localBlogIndexContainsSlug": true,
+        "localSitemapContainsSlug": true,
+        "githubActionsDeployPassed": true,
+        "articleHttpStatus": 200,
+        "blogIndexContainsSlug": true,
+        "sitemapContainsSlug": true,
+        "imageHttpStatus": 200,
+        "liveVerificationAttempt": 2,
+        "desktopRenderOk": true,
+        "mobileRenderOk": true,
+        "desktopScreenshot": "/private/tmp/dbt-sellers-desktop.png",
+        "mobileScreenshot": "/private/tmp/dbt-sellers-mobile.png"
+      },
+      "notes": "Published and verified on the custom domain after GitHub Actions/Cloudflare deployment. Live article, H1, canonical, date, image, blog index, sitemap and desktop/mobile Chrome headless render checks passed. Local Eleventy build timed out without emitting a template error.",
+      "verifiedAt": "2026-08-17T06:42:12+02:00"
     }
   ]
 }
