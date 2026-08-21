@@ -1,6 +1,6 @@
 {
   "domain": "dentalbrokerteam.com",
-  "lastRunAt": "2026-08-17T06:42:12+02:00",
+  "lastRunAt": "2026-08-21T12:52:31+02:00",
   "items": [
     {
       "keyword": "best dental practice brokers in Ontario",
@@ -542,6 +542,67 @@
       },
       "notes": "Published and verified on the custom domain after GitHub Actions/Cloudflare deployment. Live article, H1, canonical, date, image, blog index, sitemap and desktop/mobile Chrome headless render checks passed. Local Eleventy build timed out without emitting a template error.",
       "verifiedAt": "2026-08-17T06:42:12+02:00"
+    },
+    {
+      "keyword": "how to value a dental practice in Ontario",
+      "slug": "how-to-value-a-dental-practice-ontario",
+      "title": "How to Value a Dental Practice in Ontario: 7 Steps Before You Rely on a Number",
+      "status": "published",
+      "publicationDate": "2026-08-21",
+      "url": "https://dentalbrokerteam.com/blog/how-to-value-a-dental-practice-ontario/",
+      "commit": "551eb2d57f735d7e201fd93531175e72de98419a",
+      "priority": "Media",
+      "serpTarget": "Google Canada / Ontario",
+      "serpNotes": {
+        "intent": "Informational BOFU with commercial next step: Ontario dentists want to understand valuation methods, likely value drivers and when to request an appraisal before selling, buying, financing or planning a transition.",
+        "observations": [
+          "Current relevant results are mostly long-form valuation guides, calculator/multiple pages and professional-service pages rather than Ontario-specific editorial checklists.",
+          "Top pages commonly explain EBITDA, SDE, collections or revenue multiples, normalization, overhead, market trends, DSO buyer interest, patient quality and preparation before sale.",
+          "Published multiple ranges vary by source and buyer type, so the article avoids giving one universal Ontario multiple and instead frames ranges as benchmarks requiring practice-specific analysis.",
+          "Relevant pages often include tables, FAQs, author or company attribution, CTAs and calculator-style lead capture; official sources are needed for Canadian valuation standards and Ontario confidentiality/ownership-change constraints.",
+          "Gap identified: an Ontario-first step-by-step guide that connects cash-flow normalization, goodwill transferability, lease/location risk, report scope and confidentiality without cannibalizing the existing introductory valuation-basics page."
+        ],
+        "sources": [
+          "https://sgwealth.ca/resources/articles/dentists/practice-valuation-methods",
+          "https://dentx.ca/blog/dental-practice-valuation-multiples/",
+          "https://www.bizbuysell.com/learning-center/valuation-benchmarks/dental-practice/",
+          "https://cbvinstitute.com/members-students/standards-ethics/practice-standards/",
+          "https://www.rcdso.org/en-ca/standards-guidelines-resources/rcdso-news/frequently-asked-questions/information-on-change-of-practice-ownership-and-retiring-"
+        ]
+      },
+      "internalLinks": [
+        "https://dentalbrokerteam.com/appraisals/",
+        "https://dentalbrokerteam.com/blog/best-dental-practice-valuation-services-ontario/",
+        "https://dentalbrokerteam.com/blog/dental-office-valuation-basics/",
+        "https://dentalbrokerteam.com/lets-talk/"
+      ],
+      "image": "/assets/blog/how-to-value-a-dental-practice-ontario-20260821.webp",
+      "verification": {
+        "localEditorialSeoReviewPassed": true,
+        "wordCount": 1782,
+        "h1Verified": true,
+        "canonical": "https://dentalbrokerteam.com/blog/how-to-value-a-dental-practice-ontario/",
+        "imageContentType": "image/webp",
+        "localBuildPassed": false,
+        "localBuildNote": "npm run build invoked Eleventy and hung for approximately 60 seconds with no template error before being stopped; local static HTTP QA and GitHub Actions deploy were used as fallback, consistent with prior local Eleventy runtime issues.",
+        "localHttpQaPassed": true,
+        "localArticleHttpStatus": 200,
+        "localImageHttpStatus": 200,
+        "localBlogIndexContainsSlug": true,
+        "localSitemapContainsSlug": true,
+        "githubActionsDeployPassed": true,
+        "articleHttpStatus": 200,
+        "blogIndexContainsSlug": true,
+        "sitemapContainsSlug": true,
+        "imageHttpStatus": 200,
+        "liveVerificationAttempt": 2,
+        "desktopRenderOk": true,
+        "mobileRenderOk": true,
+        "desktopScreenshot": "/private/tmp/dbt-value-live-desktop.png",
+        "mobileScreenshot": "/private/tmp/dbt-value-live-mobile.png"
+      },
+      "notes": "Published and verified on the custom domain after GitHub Actions/Cloudflare deployment. Live article, H1, canonical, image, blog index, sitemap and desktop/mobile Chrome headless render checks passed. Local Eleventy build timed out without emitting a template error.",
+      "verifiedAt": "2026-08-21T12:52:31+02:00"
     }
   ]
 }
