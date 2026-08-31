@@ -1,6 +1,6 @@
 {
   "domain": "dentalbrokerteam.com",
-  "lastRunAt": "2026-08-30T06:41:00+02:00",
+  "lastRunAt": "2026-08-31T06:41:00+02:00",
   "items": [
     {
       "keyword": "best dental practice brokers in Ontario",
@@ -667,10 +667,11 @@
       "keyword": "dental practice appraisal cost Ontario",
       "slug": "dental-practice-appraisal-cost-ontario",
       "title": "Dental Practice Appraisal Cost Ontario: 7 Fee Checks Before You Pay",
-      "status": "pushed_pending_verification",
+      "status": "published",
       "publicationDate": "2026-08-31",
       "url": "https://dentalbrokerteam.com/blog/dental-practice-appraisal-cost-ontario/",
-      "commit": null,
+      "commit": "0dd4d89aa79c19e13cfd208c8fdb9ec92cb4f9ff",
+      "verifiedAt": "2026-08-31T06:41:00+02:00",
       "priority": "Media",
       "serpTarget": "Google Canada / Ontario",
       "serpNotes": {
@@ -700,7 +701,7 @@
       "image": "/assets/blog/dental-practice-appraisal-cost-ontario-20260831.webp",
       "imagePrompt": "Original editorial 16:9 image of dental practice appraisal reports, calculator and abstract charts in a modern Ontario dental office consultation room; no readable text, logos, faces or watermark.",
       "verification": {
-        "status": "pending_live_verification",
+        "status": "published",
         "localEditorialSeoReviewPassed": true,
         "articleWordCount": 1926,
         "h1Verified": true,
@@ -718,9 +719,17 @@
         "localSitemapContainsSlug": true,
         "localImageHttpStatus": 200,
         "visualBrowserCheckAvailable": false,
-        "visualBrowserCheckNote": "Playwright was not installed in this environment; HTML, metadata, link, asset and local HTTP checks passed."
+        "visualBrowserCheckNote": "Playwright was not installed in this environment; HTML, metadata, link, asset and local/live HTTP checks passed.",
+        "articleHttpStatus": 200,
+        "blogIndexContainsSlug": true,
+        "sitemapContainsSlug": true,
+        "imageHttpStatus": 200,
+        "liveImageContentType": "image/webp",
+        "liveVerificationAttempt": 1,
+        "desktopRenderOk": null,
+        "mobileRenderOk": null
       },
-      "notes": "Article staged for deployment verification. Do not treat as published until the custom-domain URL is verified. Local source QA passed; local Eleventy build hung without emitting an error, consistent with prior automation runs."
+      "notes": "Published and verified on the custom domain after Cloudflare deployment. Local source QA passed; local Eleventy build hung without emitting an error, consistent with prior automation runs. Browser screenshot tooling was unavailable, so visual render was not captured."
     }
   ]
 }
