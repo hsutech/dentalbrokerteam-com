@@ -1,6 +1,6 @@
 {
   "domain": "dentalbrokerteam.com",
-  "lastRunAt": "2026-09-01T09:58:00+02:00",
+  "lastRunAt": "2026-09-01T10:02:00+02:00",
   "items": [
     {
       "keyword": "best dental practice brokers in Ontario",
@@ -735,11 +735,11 @@
       "keyword": "sell dental practice with or without a broker",
       "slug": "sell-dental-practice-with-or-without-broker",
       "title": "Sell a Dental Practice With or Without a Broker: 7 Checks Before You Choose",
-      "status": "local_verified_pending_push",
+      "status": "published",
       "publicationDate": "2026-09-01",
       "url": "https://dentalbrokerteam.com/blog/sell-dental-practice-with-or-without-broker/",
-      "commit": null,
-      "verifiedAt": null,
+      "commit": "b0bd18cc2a88bc6ff24f29556a36604ab42e0f47",
+      "verifiedAt": "2026-09-01T10:01:46+02:00",
       "priority": "Media",
       "serpTarget": "Google Canada / Ontario",
       "serpNotes": {
@@ -779,9 +779,18 @@
         "localStaticQaPassed": true,
         "localBuildPassed": true,
         "desktopRenderOk": "not_verified_browser_tool_unavailable",
-        "mobileRenderOk": "not_verified_browser_tool_unavailable"
+        "mobileRenderOk": "not_verified_browser_tool_unavailable",
+        "articleHttpStatus": 200,
+        "imageHttpStatus": 200,
+        "imageContentType": "image/webp",
+        "blogIndexContainsSlug": true,
+        "sitemapContainsSlug": true,
+        "liveH1Verified": true,
+        "liveCanonicalVerified": true,
+        "liveOgImagePresent": true,
+        "liveVerificationAttempt": 2
       },
-      "notes": "Article, featured WebP image, blog index and sitemap prepared from current SERP research. Awaiting push and live custom-domain verification before marking published."
+      "notes": "Published to main and verified live on the custom domain on the second attempt. Browser screenshot tooling was unavailable, so mobile/desktop visual screenshots were not captured."
     }
   ]
 }
