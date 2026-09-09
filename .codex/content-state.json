@@ -1,6 +1,6 @@
 {
   "domain": "dentalbrokerteam.com",
-  "lastRunAt": "2026-09-01T10:02:00+02:00",
+  "lastRunAt": "2026-09-09T06:43:00+02:00",
   "items": [
     {
       "keyword": "best dental practice brokers in Ontario",
@@ -791,6 +791,75 @@
         "liveVerificationAttempt": 2
       },
       "notes": "Published to main and verified live on the custom domain on the second attempt. Browser screenshot tooling was unavailable, so mobile/desktop visual screenshots were not captured."
+    },
+    {
+      "keyword": "dental practice broker fees Ontario",
+      "slug": "dental-practice-broker-fees-ontario",
+      "title": "Dental Practice Broker Fees Ontario: 7 Cost Checks Before You Sign",
+      "status": "published",
+      "publicationDate": "2026-09-09",
+      "url": "https://dentalbrokerteam.com/blog/dental-practice-broker-fees-ontario/",
+      "commit": "1f152010fc476857cfd988f0aee0922a4a24e728",
+      "verifiedAt": "2026-09-09T06:42:00+02:00",
+      "priority": "Media",
+      "serpTarget": "Google Canada / Ontario",
+      "serpNotes": {
+        "intent": "Commercial BOFU / informational: Ontario dentists comparing broker commission, flat-fee alternatives, buyer-side compensation, holdovers and unbrokered routes before signing an engagement.",
+        "observations": [
+          "Current relevant results mix direct broker-fee explainers, Ontario seller-advocacy alternatives, legal-led unbrokered-sale arguments and Ontario regulatory guidance rather than neutral editorial comparison pages.",
+          "Fee pages tend to expose a headline percentage, flat-rate positioning or anti-commission argument, but often do not separate valuation, buyer qualification, confidentiality, legal, tax and holdover economics.",
+          "Ontario-specific regulatory context matters because agreements should document remuneration and services clearly, and dental practice sales can involve staged disclosure of patient information after confidentiality protections.",
+          "Gap identified: a neutral BOFU cost-check framework that compares total net outcome and service scope without inventing a universal Ontario broker-fee standard."
+        ],
+        "sources": [
+          "https://www.ada.org/resources/careers/career-planning/articles/what-does-it-actually-cost-to-sell-a-dental-practice",
+          "https://www.dentalbroker.com/dental-consultant/dental-broker-fees/",
+          "https://practiceadvocate.ca/seller-advocacy/",
+          "https://dentistlawyers.ca/get-un-brokered-when-selling-your-practice/",
+          "https://reco.on.ca/agents-and-brokerages/reco-bulletins/reco-bulletin-6-2-remuneration-clause-in-an-agreement-of-purchase-and-sale",
+          "https://www.reco.on.ca/agents-and-brokerages/reco-bulletins/reco-bulletin-2-3-representation-agreements/",
+          "https://www.rcdso.org/en-ca/standards-guidelines-resources/rcdso-news/frequently-asked-questions/information-on-change-of-practice-ownership-and-retiring-",
+          "https://www.deltalawfirm.ca/post/selling-a-dental-practice-in-ontario-legal-considerations-for-dentists",
+          "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/business-registration/maintain-business/selling-business.html"
+        ]
+      },
+      "internalLinks": [
+        "https://dentalbrokerteam.com/blog/sell-dental-practice-with-or-without-broker/",
+        "https://dentalbrokerteam.com/blog/dental-practice-appraisal-cost-ontario/",
+        "https://dentalbrokerteam.com/blog/best-dental-brokers-for-sellers-ontario/",
+        "https://dentalbrokerteam.com/sell/",
+        "https://dentalbrokerteam.com/lets-talk/"
+      ],
+      "image": "/assets/blog/dental-practice-broker-fees-ontario-20260909.webp",
+      "imagePrompt": "Original editorial 16:9 image of dental practice sale documents, calculator and fee review notes on a consultation desk in an Ontario clinic; no readable text, logos, faces or watermark.",
+      "verification": {
+        "status": "published",
+        "localBuildPassed": true,
+        "githubActionsDeployPassed": true,
+        "articleWordCount": 2119,
+        "h1Verified": true,
+        "schemaJsonValid": true,
+        "externalLinks": 9,
+        "internalLinksResolved": true,
+        "canonical": "https://dentalbrokerteam.com/blog/dental-practice-broker-fees-ontario/",
+        "ogImage": "https://dentalbrokerteam.com/assets/blog/dental-practice-broker-fees-ontario-20260909.webp",
+        "imageContentType": "image/webp",
+        "localHttpQaPassed": true,
+        "localArticleHttpStatus": 200,
+        "localBlogIndexContainsSlug": true,
+        "localSitemapContainsSlug": true,
+        "localImageHttpStatus": 200,
+        "desktopRenderOk": true,
+        "mobileRenderOk": true,
+        "articleHttpStatus": 200,
+        "blogIndexContainsSlug": true,
+        "sitemapContainsSlug": true,
+        "imageHttpStatus": 200,
+        "liveImageContentType": "image/webp",
+        "liveVerificationAttempt": 2,
+        "cloudflarePagesUrl": "https://4256721d.dentalbrokerteam-com.pages.dev"
+      },
+      "notes": "Published to main and verified live on the custom domain after Cloudflare Pages deployment. Local build, source QA, desktop screenshot and mobile screenshot checks passed."
     }
   ]
 }
