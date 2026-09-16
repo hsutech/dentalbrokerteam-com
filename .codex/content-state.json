@@ -1,6 +1,6 @@
 {
   "domain": "dentalbrokerteam.com",
-  "lastRunAt": "2026-09-15T06:45:00+02:00",
+  "lastRunAt": "2026-09-16T06:43:00+02:00",
   "items": [
     {
       "keyword": "best dental practice brokers in Ontario",
@@ -996,6 +996,55 @@
         "liveVerificationAttempt": 1
       },
       "notes": "Published to main and verified live on the custom domain after GitHub Actions/Cloudflare Pages deployment. Local Eleventy build, source QA, HTTP checks, desktop screenshot and mobile screenshot checks passed. Topic selection was inferred from memory and current inventory because the local content-plan workbook stayed inaccessible."
+    },
+    {
+      "keyword": "dental practice due diligence checklist Canada",
+      "slug": "dental-practice-due-diligence-checklist-canada",
+      "title": "Dental Practice Due Diligence Checklist Canada: 10 Buyer Checks Before Closing",
+      "status": "published",
+      "publicationDate": "2026-09-16",
+      "url": "https://dentalbrokerteam.com/blog/dental-practice-due-diligence-checklist-canada/",
+      "commit": "f2eecf189d44aed6c8c95444901de9be7d485aaf",
+      "verifiedAt": "2026-09-16T06:43:00+02:00",
+      "priority": "Alta",
+      "serpTarget": "Google Canada / Ontario",
+      "serpNotes": {
+        "intent": "Commercial BOFU: Canadian and Ontario dental practice buyers verifying financial, patient, lease, staff, equipment, privacy, financing and closing risk before removing conditions.",
+        "observations": [
+          "Current relevant results are checklist, FAQ and legal/due-diligence pages rather than lender-only or seller-only pages.",
+          "CDA and BDC pages emphasize advisory team, culture, lease, equipment, valuation, financial/legal diligence and not ignoring negative findings.",
+          "Ontario legal/regulatory results highlight asset versus share structure, corporate obligations, staff/associate contracts, patient records, privacy controls and ownership-change duties.",
+          "Gap identified: a Canadian buyer checklist that ties each diligence item to a proceed, renegotiate, request-more-evidence or walk-away decision while avoiding unsupported cost claims."
+        ],
+        "sources": [
+          "https://www.cda-adc.ca/for-prospective-dentists/exploring-dentistry/career/private-practice/buying-a-practice-faq",
+          "https://www.deltalawfirm.ca/post/buying-a-dental-practice-in-ontario-legal-checklist-for-dentists",
+          "https://www.bdc.ca/en/articles-tools/start-buy-business/buy-business/buying-business-conducting-due-diligence",
+          "https://www.rcdso.org/en-ca/standards-guidelines-resources/rcdso-news/frequently-asked-questions/information-on-change-of-practice-ownership-and-retiring-"
+        ]
+      },
+      "internalLinks": [
+        "https://dentalbrokerteam.com/blog/buying-a-dental-practice-guide/",
+        "https://dentalbrokerteam.com/blog/dental-practice-financing-canada/",
+        "https://dentalbrokerteam.com/blog/best-dental-practices-for-sale-ontario/",
+        "https://dentalbrokerteam.com/blog/dental-practice-acquisition-financing-file/"
+      ],
+      "image": "/assets/blog/dental-practice-due-diligence-checklist-canada-20260916.webp",
+      "verification": {
+        "localBuildPassed": true,
+        "localHttpQaPassed": true,
+        "articleHttpStatus": 200,
+        "blogIndexContainsSlug": true,
+        "sitemapContainsSlug": true,
+        "imageHttpStatus": 200,
+        "imageContentType": "image/webp",
+        "canonical": "https://dentalbrokerteam.com/blog/dental-practice-due-diligence-checklist-canada/",
+        "h1Verified": true,
+        "desktopRenderOk": true,
+        "mobileRenderOk": true,
+        "githubActionsRun": "35056575376"
+      },
+      "notes": "Published and verified on the custom domain after Cloudflare deployment. Local Eleventy build, HTTP checks and in-app browser desktop/mobile render checks passed."
     }
   ]
 }
