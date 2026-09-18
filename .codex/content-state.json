@@ -1,6 +1,6 @@
 {
   "domain": "dentalbrokerteam.com",
-  "lastRunAt": "2026-09-16T06:43:00+02:00",
+  "lastRunAt": "2026-09-18T06:42:00+02:00",
   "items": [
     {
       "keyword": "best dental practice brokers in Ontario",
@@ -1045,6 +1045,76 @@
         "githubActionsRun": "35056575376"
       },
       "notes": "Published and verified on the custom domain after Cloudflare deployment. Local Eleventy build, HTTP checks and in-app browser desktop/mobile render checks passed."
+    },
+    {
+      "keyword": "buying a dental practice checklist Ontario",
+      "slug": "buying-a-dental-practice-checklist-ontario",
+      "title": "Buying a Dental Practice Checklist Ontario: 9 Steps Before You Make an Offer",
+      "status": "published",
+      "publicationDate": "2026-09-18",
+      "url": "https://dentalbrokerteam.com/blog/buying-a-dental-practice-checklist-ontario/",
+      "commit": "52ee3a7d45c08c92469c9bd48d913c2ef015233d",
+      "verifiedAt": "2026-09-18T06:42:00+02:00",
+      "priority": "Media",
+      "serpTarget": "Google Canada / Ontario",
+      "serpNotes": {
+        "intent": "Commercial BOFU / practical pre-offer: Ontario dentists deciding whether a target dental practice deserves an LOI or offer and what conditions/advisors should be involved before formal due diligence.",
+        "observations": [
+          "Current relevant results mix legal checklists, CDA buyer education, buyer checklist pages, Ontario acquisition commentary and existing due-diligence content.",
+          "Top pages commonly cover asset versus share purchase, advisory team, valuation, lease review, financial health, patient and hygiene indicators, equipment, staff and transition support.",
+          "Ontario-specific results emphasize that buyers are not buying a licence; transfer value depends on assets, goodwill, premises rights, patient records, systems, professional corporation steps and contract structure.",
+          "Regulatory/official sources show privacy and ownership-change issues matter before detailed patient-record review; RCDSO notes confidentiality agreements, written patient notice and ownership-change documentation.",
+          "The article is differentiated from the existing due diligence checklist by focusing on pre-offer fit and offer-condition decisions rather than post-access document verification."
+        ],
+        "sources": [
+          "https://www.cda-adc.ca/for-prospective-dentists/exploring-dentistry/career/private-practice/buying-a-practice-faq",
+          "https://www.deltalawfirm.ca/post/buying-a-dental-practice-in-ontario-legal-checklist-for-dentists",
+          "https://www.jatindua.com/buying-a-dental-practice-ontario/",
+          "https://www.rcdso.org/en-ca/standards-guidelines-resources/rcdso-news/frequently-asked-questions/information-on-change-of-practice-ownership-and-retiring-",
+          "https://www.deavo.ai/learn/checklists/dental-practice-buyer-checklist",
+          "https://ised-isde.canada.ca/site/canada-small-business-financing-program/en/frequently-asked-questions-small-businesses"
+        ]
+      },
+      "internalLinks": [
+        "https://dentalbrokerteam.com/blog/dental-practice-due-diligence-checklist-canada/",
+        "https://dentalbrokerteam.com/blog/buying-a-dental-practice-guide/",
+        "https://dentalbrokerteam.com/blog/dental-practice-financing-canada/",
+        "https://dentalbrokerteam.com/listings/",
+        "https://dentalbrokerteam.com/blog/how-to-value-a-dental-practice-ontario/",
+        "https://dentalbrokerteam.com/blog/dental-practice-valuation-multiples-canada/"
+      ],
+      "image": "/assets/blog/buying-a-dental-practice-checklist-ontario-20260918.webp",
+      "imagePrompt": "Original editorial 16:9 image of an Ontario dental practice buyer checklist with laptop charts, calculator, folders and dental model on a modern clinic consultation desk; no readable text, logos, faces or watermark.",
+      "verification": {
+        "localBuildPassed": true,
+        "localHttpQaPassed": true,
+        "localArticleHttpStatus": 200,
+        "localImageHttpStatus": 200,
+        "localImageContentType": "image/webp",
+        "localBlogIndexContainsSlug": true,
+        "localSitemapContainsSlug": true,
+        "localEditorialSeoReviewPassed": true,
+        "wordCount": 2018,
+        "h1Verified": true,
+        "schemaJsonValid": true,
+        "externalLinks": 6,
+        "internalLinksResolved": true,
+        "canonical": "https://dentalbrokerteam.com/blog/buying-a-dental-practice-checklist-ontario/",
+        "ogImage": "https://dentalbrokerteam.com/assets/blog/buying-a-dental-practice-checklist-ontario-20260918.webp",
+        "githubActionsDeployPassed": true,
+        "githubActionsRun": "35307872877",
+        "articleHttpStatus": 200,
+        "blogIndexContainsSlug": true,
+        "sitemapContainsSlug": true,
+        "imageHttpStatus": 200,
+        "imageContentType": "image/webp",
+        "liveVerificationAttempt": 2,
+        "desktopRenderOk": true,
+        "mobileRenderOk": true,
+        "desktopScreenshot": "Codex in-app browser live viewport",
+        "mobileScreenshot": "/private/tmp/dbt-buying-checklist-live-mobile.png"
+      },
+      "notes": "Published and verified on the custom domain after GitHub Actions/Cloudflare deployment. Article, H1, canonical, image, blog index, sitemap and desktop/mobile render checks passed."
     }
   ]
 }
