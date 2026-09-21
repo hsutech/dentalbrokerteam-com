@@ -1,6 +1,6 @@
 {
   "domain": "dentalbrokerteam.com",
-  "lastRunAt": "2026-09-18T06:42:00+02:00",
+  "lastRunAt": "2026-09-21T06:42:33+02:00",
   "items": [
     {
       "keyword": "best dental practice brokers in Ontario",
@@ -1120,9 +1120,11 @@
       "keyword": "questions to ask a dental practice broker",
       "slug": "questions-to-ask-a-dental-practice-broker",
       "title": "Questions to Ask a Dental Practice Broker: 10 Before You Sign",
-      "status": "drafted",
+      "status": "published",
       "publicationDate": "2026-09-21",
       "url": "https://dentalbrokerteam.com/blog/questions-to-ask-a-dental-practice-broker/",
+      "commit": "d0f156024bf540b67481136ab51443aed981fcef",
+      "verifiedAt": "2026-09-21T06:42:33+02:00",
       "priority": "Media",
       "serpTarget": "Google Canada / Ontario",
       "selectionNotes": "Selected as workbook row 18 after reconciling remote state through the September 18 Ontario buying checklist. Differentiated from existing broker comparison, broker fee, reviews, buyer, seller and sale-checklist articles by focusing on pre-engagement interview questions and scorecard decisions.",
@@ -1155,9 +1157,34 @@
       "image": "/assets/blog/questions-to-ask-a-dental-practice-broker-20260921.webp",
       "imagePrompt": "Original editorial 16:9 image of dental practice broker interview preparation materials, laptop charts, calculator, folders and dental model on a clean consultation desk; no readable text, logos, faces or watermark.",
       "verification": {
-        "status": "drafted"
+        "status": "published",
+        "localBuildPassed": true,
+        "localHttpQaPassed": true,
+        "localArticleHttpStatus": 200,
+        "localImageHttpStatus": 200,
+        "localImageContentType": "image/webp",
+        "localBlogIndexContainsSlug": true,
+        "localSitemapContainsSlug": true,
+        "localEditorialSeoReviewPassed": true,
+        "wordCount": 2182,
+        "h1Verified": true,
+        "schemaJsonValid": true,
+        "externalLinks": 6,
+        "internalLinksResolved": true,
+        "canonical": "https://dentalbrokerteam.com/blog/questions-to-ask-a-dental-practice-broker/",
+        "ogImage": "https://dentalbrokerteam.com/assets/blog/questions-to-ask-a-dental-practice-broker-20260921.webp",
+        "githubActionsDeployPassed": true,
+        "githubActionsRun": "35561908946",
+        "articleHttpStatus": 200,
+        "blogIndexContainsSlug": true,
+        "sitemapContainsSlug": true,
+        "imageHttpStatus": 200,
+        "imageContentType": "image/webp",
+        "liveVerificationAttempt": 1,
+        "desktopRenderOk": true,
+        "mobileRenderOk": true
       },
-      "notes": "Drafted locally; final published/live verification fields must be updated only after build, push, deployment and custom-domain checks pass."
+      "notes": "Published to main and verified live on the custom domain after GitHub Actions/Cloudflare deployment. Article, H1, canonical, image, blog index, sitemap and desktop/mobile render checks passed. No YouTube video was embedded because the current relevant SERP did not surface a neutral official video that materially improved this broker-interview scorecard."
     }
   ]
 }
