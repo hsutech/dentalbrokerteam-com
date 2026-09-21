@@ -1115,6 +1115,49 @@
         "mobileScreenshot": "/private/tmp/dbt-buying-checklist-live-mobile.png"
       },
       "notes": "Published and verified on the custom domain after GitHub Actions/Cloudflare deployment. Article, H1, canonical, image, blog index, sitemap and desktop/mobile render checks passed."
+    },
+    {
+      "keyword": "questions to ask a dental practice broker",
+      "slug": "questions-to-ask-a-dental-practice-broker",
+      "title": "Questions to Ask a Dental Practice Broker: 10 Before You Sign",
+      "status": "drafted",
+      "publicationDate": "2026-09-21",
+      "url": "https://dentalbrokerteam.com/blog/questions-to-ask-a-dental-practice-broker/",
+      "priority": "Media",
+      "serpTarget": "Google Canada / Ontario",
+      "selectionNotes": "Selected as workbook row 18 after reconciling remote state through the September 18 Ontario buying checklist. Differentiated from existing broker comparison, broker fee, reviews, buyer, seller and sale-checklist articles by focusing on pre-engagement interview questions and scorecard decisions.",
+      "serpNotes": {
+        "intent": "Commercial BOFU: Ontario dentists preparing to interview or compare a dental practice broker before signing an engagement, listing agreement or buyer advisory arrangement.",
+        "observations": [
+          "Current relevant results include short broker question lists, broker-selection guides, DSO-oriented broker caution pages, buyer/seller transition articles and Ontario representation/fee guidance.",
+          "Top competitor pages usually provide list-format questions around compensation, representation, contract term, marketing, buyer pool, confidentiality, legal support, communication and referrals.",
+          "Official Ontario guidance adds a gap: dentists should ask clear questions about representation form, services, fees, duration, cancellation, conflicts and confidentiality before signing.",
+          "The article is differentiated from existing Dental Broker Team posts by serving as an interview scorecard rather than a broker ranking, fee explainer, review framework or sale checklist."
+        ],
+        "sources": [
+          "https://professionaltransition.com/20-questions-to-ask-a-dental-practice-broker/",
+          "https://blog.heartland.com/considering-a-broker-to-sell-your-dental-practice-essential-questions-to-ask",
+          "https://firstmoveadvisors.com/blog/how-to-choose-a-dental-practice-broker",
+          "https://www.reco.on.ca/buyers-and-sellers/things-you-need-to-know/signing-a-contract-with-a-real-estate-brokerage",
+          "https://www.reco.on.ca/agents-and-brokerages/reco-bulletins/reco-bulletin-2-2-representation/",
+          "https://www.rcdso.org/en-ca/standards-guidelines-resources/rcdso-news/frequently-asked-questions/information-on-change-of-practice-ownership-and-retiring-",
+          "https://www.cda-adc.ca/for-prospective-dentists/exploring-dentistry/career/private-practice/buying-a-practice-faq"
+        ]
+      },
+      "internalLinks": [
+        "https://dentalbrokerteam.com/blog/sell-dental-practice-with-or-without-broker/",
+        "https://dentalbrokerteam.com/blog/dental-practice-broker-fees-ontario/",
+        "https://dentalbrokerteam.com/blog/how-to-value-a-dental-practice-ontario/",
+        "https://dentalbrokerteam.com/blog/best-dental-practice-brokers-ontario/",
+        "https://dentalbrokerteam.com/blog/dental-practice-sale-checklist-canada/",
+        "https://dentalbrokerteam.com/blog/buying-a-dental-practice-checklist-ontario/"
+      ],
+      "image": "/assets/blog/questions-to-ask-a-dental-practice-broker-20260921.webp",
+      "imagePrompt": "Original editorial 16:9 image of dental practice broker interview preparation materials, laptop charts, calculator, folders and dental model on a clean consultation desk; no readable text, logos, faces or watermark.",
+      "verification": {
+        "status": "drafted"
+      },
+      "notes": "Drafted locally; final published/live verification fields must be updated only after build, push, deployment and custom-domain checks pass."
     }
   ]
 }
