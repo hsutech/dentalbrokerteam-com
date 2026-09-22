@@ -1,6 +1,6 @@
 {
   "domain": "dentalbrokerteam.com",
-  "lastRunAt": "2026-09-21T06:42:33+02:00",
+  "lastRunAt": "2026-09-22T06:40:37+02:00",
   "items": [
     {
       "keyword": "best dental practice brokers in Ontario",
@@ -1185,6 +1185,60 @@
         "mobileRenderOk": true
       },
       "notes": "Published to main and verified live on the custom domain after GitHub Actions/Cloudflare deployment. Article, H1, canonical, image, blog index, sitemap and desktop/mobile render checks passed. No YouTube video was embedded because the current relevant SERP did not surface a neutral official video that materially improved this broker-interview scorecard."
+    },
+    {
+      "keyword": "dental practice transition timeline",
+      "slug": "dental-practice-transition-timeline",
+      "title": "Dental Practice Transition Timeline: 9 Milestones Before Closing",
+      "status": "published",
+      "publicationDate": "2026-09-22",
+      "url": "https://dentalbrokerteam.com/blog/dental-practice-transition-timeline/",
+      "commit": "fbe835bf66a7a5c722e7fada4986f94d2a902c8e",
+      "verifiedAt": "2026-09-22T06:40:37+02:00",
+      "priority": "Media",
+      "serpTarget": "Google Canada / Ontario",
+      "serpNotes": {
+        "intent": "Commercial/BOFU planning intent: Ontario and Canadian dentists need a realistic practice transition timeline before sale, buyer diligence, closing and post-closing handoff.",
+        "observations": [
+          "Current relevant results mix official guidance, broker articles and marketplace guides; users want both a quick answer to timing and a practical phase-by-phase process.",
+          "ADA guidance emphasizes exit strategy, realistic expectations, advisor team, legal/tax topics, valuation and broker selection before selling.",
+          "Broker and marketplace pages discuss wide timing variance by transition type, location, practice size, buyer readiness, financing, lease assignment and post-closing support.",
+          "Ontario-specific gap: many generic timeline pages under-cover RCDSO patient notification, confidentiality and personal health information handling during a practice ownership change."
+        ],
+        "sources": [
+          "https://www.ada.org/resources/practice/practice-management/what-to-do-when-selling-a-practice",
+          "https://professionaltransition.com/how-long-will-it-take-to-sell-your-dental-practice/",
+          "https://www.thedentalpracticemarket.com/guides/dental-practice-transition-timeline",
+          "https://www.rcdso.org/en-ca/standards-guidelines-resources/rcdso-news/frequently-asked-questions/information-on-change-of-practice-ownership-and-retiring-",
+          "https://www.cda-adc.ca/newsletters/oasis_bulletin/2014/101414EN.html"
+        ]
+      },
+      "internalLinks": [
+        "https://dentalbrokerteam.com/blog/dental-practice-sale-checklist-canada/",
+        "https://dentalbrokerteam.com/blog/buying-a-dental-practice-checklist-ontario/",
+        "https://dentalbrokerteam.com/blog/how-to-value-a-dental-practice-ontario/",
+        "https://dentalbrokerteam.com/blog/sell-dental-practice-with-or-without-broker/"
+      ],
+      "image": "/assets/blog/dental-practice-transition-timeline-20260922.webp",
+      "verification": {
+        "localBuildPassed": true,
+        "localHttpQaPassed": true,
+        "articleHttpStatus": 200,
+        "blogIndexContainsSlug": true,
+        "sitemapContainsSlug": true,
+        "imageHttpStatus": 200,
+        "imageContentType": "image/webp",
+        "imageDimensions": "1672x941",
+        "canonical": "https://dentalbrokerteam.com/blog/dental-practice-transition-timeline/",
+        "h1Verified": true,
+        "articleSchema": true,
+        "faqSchema": true,
+        "desktopRenderOk": true,
+        "mobileRenderOk": true,
+        "desktopHorizontalOverflow": false,
+        "mobileHorizontalOverflow": false
+      },
+      "notes": "Published and verified on the custom domain after Cloudflare deployment. Article body has 2,100 words, one H1, Article and FAQ schema, four body internal links, five external source links and original WebP featured image."
     }
   ]
 }
