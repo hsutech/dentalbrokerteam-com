@@ -1,6 +1,6 @@
 {
   "domain": "dentalbrokerteam.com",
-  "lastRunAt": "2026-09-22T06:40:37+02:00",
+  "lastRunAt": "2026-09-23T08:54:30+02:00",
   "items": [
     {
       "keyword": "best dental practice brokers in Ontario",
@@ -1239,6 +1239,61 @@
         "mobileHorizontalOverflow": false
       },
       "notes": "Published and verified on the custom domain after Cloudflare deployment. Article body has 2,100 words, one H1, Article and FAQ schema, four body internal links, five external source links and original WebP featured image."
+    },
+    {
+      "keyword": "associate buy in vs practice purchase",
+      "slug": "associate-buy-in-vs-practice-purchase",
+      "title": "Associate Buy-In vs Practice Purchase: 7 Checks Before You Choose",
+      "status": "published",
+      "publicationDate": "2026-09-23",
+      "url": "https://dentalbrokerteam.com/blog/associate-buy-in-vs-practice-purchase/",
+      "commit": "b3dddd2b7eb38c8c1502a868e50452dc7344192a",
+      "verifiedAt": "2026-09-23T08:54:30+02:00",
+      "priority": "Media",
+      "serpTarget": "Google Canada / Ontario",
+      "serpNotes": {
+        "intent": "Commercial BOFU comparison intent: Canadian and Ontario dentists deciding between a staged associate buy-in and an outright dental practice purchase before signing ownership, financing or transition documents.",
+        "observations": [
+          "Current relevant results mix advisory pages, lender guidance, broker material and dental transition explainers rather than neutral comparison frameworks.",
+          "Topical coverage commonly explains buying a practice, valuation, financing and transition planning, but under-covers shared-control issues in minority or staged buy-ins.",
+          "Important SERP gap: a buy-in is not simply a cheaper full purchase; dentists need governance, future purchase rights, valuation of the exact interest, exit rights and relationship-risk checks.",
+          "Ontario-specific context requires patient notice, confidentiality agreement discipline and careful handling of personal health information during ownership-change planning."
+        ],
+        "sources": [
+          "https://www.cda-adc.ca/en/becoming/dat/information/buying/",
+          "https://www.rcdso.org/en-ca/standards-guidelines-resources/rcdso-news/frequently-asked-questions/information-on-change-of-practice-ownership-and-retiring-",
+          "https://www.td.com/ca/en/business-banking/solutions/small-business/professional-banking/banking-for-healthcare-professionals"
+        ]
+      },
+      "internalLinks": [
+        "https://dentalbrokerteam.com/blog/how-to-value-a-dental-practice-ontario/",
+        "https://dentalbrokerteam.com/blog/dental-practice-valuation-multiples-canada/",
+        "https://dentalbrokerteam.com/blog/dental-practice-financing-canada/",
+        "https://dentalbrokerteam.com/blog/sell-dental-practice-with-or-without-broker/",
+        "https://dentalbrokerteam.com/blog/buying-a-dental-practice-checklist-ontario/",
+        "https://dentalbrokerteam.com/appraisals/",
+        "https://dentalbrokerteam.com/lets-talk/"
+      ],
+      "image": "/assets/blog/associate-buy-in-vs-practice-purchase-20260923.webp",
+      "verification": {
+        "localBuildPassed": true,
+        "localHttpQaPassed": true,
+        "articleHttpStatus": 200,
+        "blogIndexContainsSlug": true,
+        "sitemapContainsSlug": true,
+        "imageHttpStatus": 200,
+        "imageContentType": "image/webp",
+        "imageDimensions": "1672x941",
+        "canonical": "https://dentalbrokerteam.com/blog/associate-buy-in-vs-practice-purchase/",
+        "h1Verified": true,
+        "articleSchema": true,
+        "faqSchema": true,
+        "desktopRenderOk": true,
+        "mobileRenderOk": true,
+        "desktopHorizontalOverflow": false,
+        "mobileHorizontalOverflow": false
+      },
+      "notes": "Published and verified on the custom domain after Cloudflare deployment. Article body has 2,261 words, one H1, Article and FAQ schema, seven internal links, three external source links and an original optimized WebP featured image. No YouTube embed was added because current SERP intent did not require video evidence."
     }
   ]
 }
