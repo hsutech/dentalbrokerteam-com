@@ -1,6 +1,6 @@
 {
   "domain": "dentalbrokerteam.com",
-  "lastRunAt": "2026-09-23T08:54:30+02:00",
+  "lastRunAt": "2026-10-02T12:11:00+02:00",
   "items": [
     {
       "keyword": "best dental practice brokers in Ontario",
@@ -1294,6 +1294,62 @@
         "mobileHorizontalOverflow": false
       },
       "notes": "Published and verified on the custom domain after Cloudflare deployment. Article body has 2,261 words, one H1, Article and FAQ schema, seven internal links, three external source links and an original optimized WebP featured image. No YouTube embed was added because current SERP intent did not require video evidence."
+    },
+    {
+      "keyword": "dental practice sale tax considerations Canada",
+      "slug": "dental-practice-sale-tax-considerations-canada",
+      "title": "Dental Practice Sale Tax Considerations Canada: 7 Checks Before You Sign",
+      "status": "published",
+      "publicationDate": "2026-10-02",
+      "url": "https://dentalbrokerteam.com/blog/dental-practice-sale-tax-considerations-canada/",
+      "commit": "dbdda6e5a09fbe06cb40008c80a65829248a97ae",
+      "verifiedAt": "2026-10-02T12:10:00+02:00",
+      "priority": "Baja",
+      "serpTarget": "Google Canada / Ontario",
+      "serpNotes": {
+        "intent": "Commercial/BOFU seller-planning intent: Canadian dental practice owners want tax structure questions answered before agreeing to a sale, LOI or closing timeline.",
+        "observations": [
+          "Current relevant results mix CRA tax guidance, dental legal/accounting pages and practice-sale explainers rather than ordinary retirement articles.",
+          "Topical coverage emphasizes asset sale versus share sale, qualified small business corporation share planning, lifetime capital gains exemption, allocation to goodwill and equipment, GST/HST elections and advisor coordination.",
+          "SERP gap: sellers need a practical pre-signing checklist that connects tax structure to valuation, buyer diligence, financing, lease consent and after-tax proceeds without giving transaction-specific tax advice.",
+          "Ontario/Canada dental context requires careful separation of tax advice, legal advice, valuation evidence, confidentiality and ownership-change workflow."
+        ],
+        "sources": [
+          "https://www.canada.ca/en/revenue-agency/services/tax/businesses/small-businesses-self-employed-income/setting-your-business/bringing-assets-into-a-business/buying-existing-business.html",
+          "https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4037/capital-gains.html",
+          "https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/14-4/sale-a-business-part-a-business.html",
+          "https://www.oda.ca/wp-content/uploads/resource-library/Dentists-Tax-and-Financial-Guide.pdf",
+          "https://dentistlawyers.ca/tax-planning-before-a-sale/",
+          "https://emergelaw.ca/dental-practice-guide-sellers/"
+        ]
+      },
+      "internalLinks": [
+        "https://dentalbrokerteam.com/blog/dental-practice-sale-checklist-canada/",
+        "https://dentalbrokerteam.com/blog/how-to-value-a-dental-practice-ontario/",
+        "https://dentalbrokerteam.com/blog/dental-practice-valuation-multiples-canada/",
+        "https://dentalbrokerteam.com/blog/dental-practice-transition-timeline/",
+        "https://dentalbrokerteam.com/lets-talk/"
+      ],
+      "image": "/assets/blog/dental-practice-sale-tax-considerations-canada-20261002.webp",
+      "verification": {
+        "localBuildPassed": true,
+        "localHttpQaPassed": true,
+        "articleHttpStatus": 200,
+        "blogIndexContainsSlug": true,
+        "sitemapContainsSlug": true,
+        "imageHttpStatus": 200,
+        "imageContentType": "image/webp",
+        "imageDimensions": "1672x941",
+        "canonical": "https://dentalbrokerteam.com/blog/dental-practice-sale-tax-considerations-canada/",
+        "h1Verified": true,
+        "articleSchema": true,
+        "faqSchema": true,
+        "desktopRenderOk": true,
+        "mobileRenderOk": true,
+        "desktopHorizontalOverflow": false,
+        "mobileHorizontalOverflow": false
+      },
+      "notes": "Published and verified on the custom domain after Cloudflare deployment. Article body has 2,400 words, one H1, Article and FAQ schema, four external body links, four core internal body links, original optimized WebP featured image and no YouTube embed because the SERP intent is better served by official written tax guidance."
     }
   ]
 }
