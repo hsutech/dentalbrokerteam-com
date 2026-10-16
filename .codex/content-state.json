@@ -1,6 +1,6 @@
 {
   "domain": "dentalbrokerteam.com",
-  "lastRunAt": "2026-10-16T11:25:36.902223+00:00",
+  "lastRunAt": "2026-10-16T21:30:46.373910+02:00",
   "items": [
     {
       "keyword": "best dental practice brokers in Ontario",
@@ -1467,6 +1467,62 @@
       "notes": "Published on main and live verified on custom domain after Cloudflare deployment. One new article in this run. Original local workspace and workbook preserved.",
       "commit": "9a2c0415a2dcba84cdac49ce8fdd0e4c840386d2",
       "verifiedAt": "2026-10-16T11:25:36.902223+00:00"
+    },
+    {
+      "keyword": "dental practice goodwill valuation",
+      "slug": "dental-practice-goodwill-valuation",
+      "title": "Dental Practice Goodwill Valuation: 7 Checks Before You Buy",
+      "status": "validated",
+      "priority": "Baja",
+      "workbookTopic": 25,
+      "url": "https://dentalbrokerteam.com/blog/dental-practice-goodwill-valuation/",
+      "image": "/assets/blog/dental-practice-goodwill-valuation-20261016.webp",
+      "serpTarget": "Google Canada / Ontario",
+      "serpNotes": {
+        "checkedAt": "2026-10-16T21:30:46.373910+02:00",
+        "method": "Current web search using Canada/Ontario query modifiers; relevant result pages opened. Exact Google geolocated rankings were not available, so no ordinal ranking claims are made.",
+        "intent": "Commercial investigation: understand and challenge goodwill within a proposed purchase price.",
+        "sources": [
+          "https://www.grewalguyatt.ca/valuing-a-dental-practice/",
+          "https://www.cbiz.com/insights/article/dental-practice-goodwill-how-to-identify-measure-and-value-it",
+          "https://www.rcdso.org/en-ca/standards-guidelines-resources/rcdso-news/frequently-asked-questions/information-on-change-of-practice-ownership-and-retiring-",
+          "https://www.canada.ca/en/revenue-agency/services/tax/businesses/small-businesses-self-employed-income/setting-your-business/bringing-assets-into-a-business/buying-existing-business.html"
+        ],
+        "observations": [
+          "SERP mixes professional valuation explainers, generic Canadian valuation guides, financial advisory pages and lead-generation calculators.",
+          "Reviewed Grewal Guyatt (~550-750 body words): named CPA/CBV authors, normalization and patient/lease/staff lists, author portraits, no visible TOC or video.",
+          "Reviewed CBIZ (~650-850 body words): dated corporate article, TOC label, hero image, definition/methods/transaction/transferability sections, no useful Ontario-specific tax guidance.",
+          "Reviewed EBIKO (~900-1400 body words): dated supplier blog, hero, H2 methodology and drivers, numerical market claims not used without primary support.",
+          "Reviewed SG Wealth (~700-1100 body words): service guide, comparison table, presale steps and numeric rules of thumb; no named author or visible video in extracted content.",
+          "Reviewed KeyCasa (~350-550 visible words excluding form labels): interactive preliminary calculator, owner/provider/hygiene/lease fields, explicit model limitations, no editorial TOC. Lengths are approximate estimates of extracted content, not exact counts.",
+          "Entities/questions: personal versus commercial goodwill, cash flow normalization, patients, provider dependence, hygiene, lease, fair market value, allocation and patient records.",
+          "Gap: connect each goodwill claim to evidence and a purchase decision; distinguish total enterprise value from residual allocation; explain double counting and patient choice.",
+          "Not a provider ranking or a current multiple guide. Existing valuation pages only briefly introduce goodwill; this is a focused transferability review."
+        ]
+      },
+      "internalLinks": [
+        "/blog/how-to-value-a-dental-practice-ontario/",
+        "/blog/dental-practice-transition-timeline/",
+        "/blog/dental-practice-valuation-multiples-canada/",
+        "/appraisals/"
+      ],
+      "verification": {
+        "localBuildPassed": true,
+        "wordCount": 1838,
+        "externalBodyLinks": 4,
+        "internalBodyLinks": 4,
+        "imageBytes": 72338,
+        "imageDimensions": "1672x941",
+        "editorialSecondPass": "Reviewed separately after draft: no unsupported market percentages, no invented experience, hypothetical example explicitly labelled, Canadian primary authorities for privacy and allocation, consistent FAQ schema, distinct goodwill intent, no SERP/process text in reader copy.",
+        "lint": "No lint script configured",
+        "tests": "No test script configured",
+        "localDesktopRenderOk": true,
+        "localMobileRenderOk": true,
+        "localHorizontalOverflow": false,
+        "schemaJsonValid": true,
+        "internalLinksResolved": true
+      },
+      "notes": "No video: written valuation/official guidance directly supports this decision; no verified video identified that adds material evidence. No feed present in repository. Featured image generated with built-in ImageGen: conceptual unoccupied dental reception, tooth model, closed navy binder and wooden blocks; no people/logos/text, labelled AI illustration."
     }
   ]
 }
