@@ -1,6 +1,6 @@
 {
   "domain": "dentalbrokerteam.com",
-  "lastRunAt": "2026-10-16T05:02:21.058196+00:00",
+  "lastRunAt": "2026-10-16T11:25:36.902223+00:00",
   "items": [
     {
       "keyword": "best dental practice brokers in Ontario",
@@ -1381,7 +1381,7 @@
       "keyword": "preparing a dental practice for sale",
       "slug": "preparing-a-dental-practice-for-sale",
       "title": "Preparing a Dental Practice for Sale: 7 Priorities Before Listing",
-      "status": "validated",
+      "status": "published",
       "priority": "Baja",
       "workbookTopic": 24,
       "publicationDate": "2026-10-16",
@@ -1444,7 +1444,19 @@
         "mobileRenderOk": true,
         "horizontalOverflow": false,
         "lint": "No lint script configured",
-        "tests": "No test script configured"
+        "tests": "No test script configured",
+        "articleHttpStatus": 200,
+        "imageHttpStatus": 200,
+        "imageContentType": "image/webp",
+        "blogIndexContainsSlug": true,
+        "sitemapContainsSlug": true,
+        "h1Verified": true,
+        "liveDesktopRenderOk": true,
+        "liveMobileRenderOk": true,
+        "liveHorizontalOverflow": false,
+        "deploymentId": 38873346049,
+        "deploymentConclusion": "success",
+        "liveVerificationAttempts": 1
       },
       "editorialReview": {
         "secondPassCompleted": true,
@@ -1452,7 +1464,9 @@
         "sourceAccessLimitation": "BDO content read successfully through web open; direct automated HTTP returned 403. Other three sources returned HTTP 200.",
         "videoDecision": "No video: source-backed decision framework does not need demonstration; no relevant verified video required."
       },
-      "notes": "Validated locally; publication status must be updated only after live custom-domain verification. Local original workspace preserved due to broken HEAD; clean temporary clone used."
+      "notes": "Published on main and live verified on custom domain after Cloudflare deployment. One new article in this run. Original local workspace and workbook preserved.",
+      "commit": "9a2c0415a2dcba84cdac49ce8fdd0e4c840386d2",
+      "verifiedAt": "2026-10-16T11:25:36.902223+00:00"
     }
   ]
 }
