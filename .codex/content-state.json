@@ -1,6 +1,6 @@
 {
   "domain": "dentalbrokerteam.com",
-  "lastRunAt": "2026-10-02T12:11:00+02:00",
+  "lastRunAt": "2026-10-16T05:02:21.058196+00:00",
   "items": [
     {
       "keyword": "best dental practice brokers in Ontario",
@@ -1350,6 +1350,109 @@
         "mobileHorizontalOverflow": false
       },
       "notes": "Published and verified on the custom domain after Cloudflare deployment. Article body has 2,400 words, one H1, Article and FAQ schema, four external body links, four core internal body links, original optimized WebP featured image and no YouTube embed because the SERP intent is better served by official written tax guidance."
+    },
+    {
+      "keyword": "due diligence when buying a dental practice",
+      "status": "skipped",
+      "checkedAt": "2026-10-16T05:02:21.058196+00:00",
+      "reason": "Same buyer due-diligence intent already covered by dental-practice-due-diligence-checklist-canada and buying-a-dental-practice-checklist-ontario; avoid a competing page.",
+      "existingUrl": "https://dentalbrokerteam.com/blog/dental-practice-due-diligence-checklist-canada/"
+    },
+    {
+      "keyword": "how long does it take to sell a dental practice",
+      "slug": "how-long-does-it-take-to-sell-a-dental-practice",
+      "title": "How Long Does It Take to Sell a Dental Practice? 7 Timeline Checks Before You List",
+      "status": "published",
+      "publicationDate": "2026-10-10",
+      "commit": "7770d437b0e4ddc864fc674adbd5c6eefb084a15",
+      "url": "https://dentalbrokerteam.com/blog/how-long-does-it-take-to-sell-a-dental-practice/",
+      "verifiedAt": "2026-10-16T05:02:21.058196+00:00",
+      "verification": {
+        "articleHttpStatus": 200,
+        "h1Verified": true,
+        "canonicalCorrect": true,
+        "imageHttpStatus": 200,
+        "blogIndexContainsSlug": true,
+        "sitemapContainsSlug": true
+      },
+      "notes": "Reconciled existing remote article omitted from previous state. No new article created for this keyword in this run."
+    },
+    {
+      "keyword": "preparing a dental practice for sale",
+      "slug": "preparing-a-dental-practice-for-sale",
+      "title": "Preparing a Dental Practice for Sale: 7 Priorities Before Listing",
+      "status": "validated",
+      "priority": "Baja",
+      "workbookTopic": 24,
+      "publicationDate": "2026-10-16",
+      "url": "https://dentalbrokerteam.com/blog/preparing-a-dental-practice-for-sale/",
+      "image": "/assets/blog/preparing-dental-practice-for-sale-20261015.webp",
+      "serpTarget": "Google Canada / Ontario",
+      "researchCheckedAt": "2026-10-16T05:02:21.058196+00:00",
+      "serpNotes": {
+        "method": "Web search for preparing a dental practice for sale Ontario Canada and supporting BDC query; relevant pages opened. Search tool does not expose a location-locked Google top-ten ranking; no exact rank claims made.",
+        "intent": "Commercial pre-listing preparation: owners deciding which improvements to undertake before marketing.",
+        "observations": [
+          "Relevant results mix dental legal articles, tax planning articles, brokerage service pages, real-estate pages and listing aggregators; own existing seller checklist also appears, so a generic document checklist would cannibalize it.",
+          "Delta Law: approximately 600-800 body words, firm attribution, dated August 2024, H2/H3 legal guide with asset/share sale, preparation, lease, warranties and handoff; image, no visible TOC or video in extracted page.",
+          "BDO Canada: approximately 800-1000 words, corporate author, heading-led purification/tax discussion with two editorial images and no visible TOC; historical 2023 tax examples are not current rates and are not reproduced.",
+          "Ontario Wealth Strategy Experts: approximately 2300-2800 body words, organization attribution, substantial TOC, tables, numbered framework and FAQs; tax/retirement and after-tax proceeds dominate, not operational spending priorities.",
+          "KeyCasa: approximately 400-600 words, service landing page with service cards, four process steps and CTAs; organization attribution, no editorial TOC. DentalPlace is a service/listing homepage rather than a preparation article.",
+          "Additional relevant pages inspected: Jahanshahi DSO sale legal guide, OntarioCRE premises/service page and Dental Practice Market Ontario listing directory. These cover transaction structure, location or inventory rather than a pre-sale improvement budget.",
+          "BDC supporting source: short seven-step general-business guide, TOC, institutional attribution, updated September 2025; repeatable processes and operational improvement.",
+          "Entities/questions: Ontario premises rights, RCDSO/PHIPA, recurring earnings, corporate assets, staff continuity, equipment commitments; what to fix first, whether to upgrade, confidentiality, budget and whether price gains are guaranteed.",
+          "Gap and distinct angle: compare seven preparation investments by blocker, action and completion evidence, distinguishing maintenance from speculative upgrades. Existing checklist remains the document owner; timeline remains the transaction-stage owner."
+        ],
+        "sources": [
+          "https://www.deltalawfirm.ca/post/selling-a-dental-practice-in-ontario-legal-considerations-for-dentists",
+          "https://www.bdc.ca/en/articles-tools/change-ownership/sell-business/selling-business-7-steps-increases-its-value",
+          "https://www.bdo.ca/insights/getting-dental-practice-ready-to-sell",
+          "https://www.rcdso.org/en-ca/standards-guidelines-resources/rcdso-news/frequently-asked-questions/information-on-change-of-practice-ownership-and-retiring-",
+          "https://www.ontariowealthstrategyexperts.ca/selling-a-dental-practice-in-ontario/",
+          "https://www.keycasa.ca/",
+          "https://dentalplace.ca/",
+          "https://jahanlaw.ca/selling-dental-practice-dso-ontario/",
+          "https://ontariocre.ca/ontario/dental-real-estate/",
+          "https://www.thedentalpracticemarket.com/ca/ontario"
+        ],
+        "lengthNote": "Approximate ranges inferred from extracted visible body content, not precise word-count measurements."
+      },
+      "claims": {
+        "verified": "RCDSO confidentiality agreement before disclosure for assessment and written patient notification; Delta Law lease review issues; BDO planning topic; BDC repeatable processes.",
+        "editorialInference": "Seven-option prioritization table, reporting change log, spending tests and hypothetical example are explicitly editorial guidance, not measured outcomes.",
+        "firsthandEvidence": "None; no invented experience, price uplift, expert quotes or rankings."
+      },
+      "internalLinks": [
+        "/blog/dental-practice-sale-checklist-canada/",
+        "/appraisals/",
+        "/blog/dental-practice-transition-timeline/",
+        "/lets-talk/"
+      ],
+      "verification": {
+        "localBuildPassed": true,
+        "wordCount": 1967,
+        "localHttpQaPassed": true,
+        "singleH1": true,
+        "canonicalCorrect": true,
+        "articleSchema": true,
+        "faqSchemaMatchesVisible": true,
+        "externalLinks": 4,
+        "internalBodyLinks": 4,
+        "imageBytes": 90758,
+        "imageDimensions": "1672x941",
+        "desktopRenderOk": true,
+        "mobileRenderOk": true,
+        "horizontalOverflow": false,
+        "lint": "No lint script configured",
+        "tests": "No test script configured"
+      },
+      "editorialReview": {
+        "secondPassCompleted": true,
+        "findings": "No unsupported return or price claims; dates adjusted to actual publication day; no production-facing SERP/process text; all five FAQ schema entries match visible answers; no fabricated authors or testimonials; source and original language reviewed.",
+        "sourceAccessLimitation": "BDO content read successfully through web open; direct automated HTTP returned 403. Other three sources returned HTTP 200.",
+        "videoDecision": "No video: source-backed decision framework does not need demonstration; no relevant verified video required."
+      },
+      "notes": "Validated locally; publication status must be updated only after live custom-domain verification. Local original workspace preserved due to broken HEAD; clean temporary clone used."
     }
   ]
 }
