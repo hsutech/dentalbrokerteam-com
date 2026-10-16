@@ -1,6 +1,6 @@
 {
   "domain": "dentalbrokerteam.com",
-  "lastRunAt": "2026-10-16T21:30:46.373910+02:00",
+  "lastRunAt": "2026-10-16T23:17:36.428751+02:00",
   "items": [
     {
       "keyword": "best dental practice brokers in Ontario",
@@ -1472,7 +1472,7 @@
       "keyword": "dental practice goodwill valuation",
       "slug": "dental-practice-goodwill-valuation",
       "title": "Dental Practice Goodwill Valuation: 7 Checks Before You Buy",
-      "status": "validated",
+      "status": "published",
       "priority": "Baja",
       "workbookTopic": 25,
       "url": "https://dentalbrokerteam.com/blog/dental-practice-goodwill-valuation/",
@@ -1520,9 +1520,23 @@
         "localMobileRenderOk": true,
         "localHorizontalOverflow": false,
         "schemaJsonValid": true,
-        "internalLinksResolved": true
+        "internalLinksResolved": true,
+        "articleHttpStatus": 200,
+        "imageHttpStatus": 200,
+        "imageContentType": "image/webp",
+        "h1Verified": true,
+        "canonical": "https://dentalbrokerteam.com/blog/dental-practice-goodwill-valuation/",
+        "blogIndexContainsSlug": true,
+        "sitemapContainsSlug": true,
+        "desktopRenderOk": true,
+        "mobileRenderOk": true,
+        "horizontalOverflow": false,
+        "liveVerificationAttempt": 1
       },
-      "notes": "No video: written valuation/official guidance directly supports this decision; no verified video identified that adds material evidence. No feed present in repository. Featured image generated with built-in ImageGen: conceptual unoccupied dental reception, tooth model, closed navy binder and wooden blocks; no people/logos/text, labelled AI illustration."
+      "notes": "No video: written valuation/official guidance directly supports this decision; no verified video identified that adds material evidence. No feed present in repository. Featured image generated with built-in ImageGen: conceptual unoccupied dental reception, tooth model, closed navy binder and wooden blocks; no people/logos/text, labelled AI illustration.",
+      "publicationDate": "2026-10-16",
+      "verifiedAt": "2026-10-16T23:17:36.428751+02:00",
+      "commit": "6caa5cabc75f0b8a5d83d59f119df755c4c549b5"
     }
   ]
 }
