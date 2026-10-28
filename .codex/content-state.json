@@ -1,6 +1,6 @@
 {
   "domain": "dentalbrokerteam.com",
-  "lastRunAt": "2026-10-28T15:20:11.648695+00:00",
+  "lastRunAt": "2026-10-28T15:22:17.250405+00:00",
   "items": [
     {
       "keyword": "best dental practice brokers in Ontario",
@@ -1542,7 +1542,7 @@
       "keyword": "dental practice asset sale vs share sale",
       "slug": "dental-practice-asset-sale-vs-share-sale",
       "title": "Dental Practice Asset Sale vs Share Sale: 7 Key Decisions",
-      "status": "validated",
+      "status": "published",
       "priority": "Baja",
       "workbookTopic": 26,
       "url": "https://dentalbrokerteam.com/blog/dental-practice-asset-sale-vs-share-sale/",
@@ -1606,9 +1606,27 @@
         "internalBodyLinks": 3,
         "localBrowserQaPassed": true,
         "FAQMatchesSchema": true,
-        "feed": "No RSS/feed in repository; blog index and sitemap updated."
+        "feed": "No RSS/feed in repository; blog index and sitemap updated.",
+        "articleHttpStatus": 200,
+        "imageHttpStatus": 200,
+        "imageContentType": "image/webp",
+        "h1Verified": true,
+        "canonicalCorrect": true,
+        "openGraphCorrect": true,
+        "blogIndexContainsSlug": true,
+        "sitemapContainsSlug": true,
+        "desktopRenderOk": true,
+        "mobileRenderOk": true,
+        "horizontalOverflow": false,
+        "externalLinksHttp200": true,
+        "liveVerificationAttempts": 1,
+        "deploymentId": 40714948684,
+        "deploymentConclusion": "success"
       },
-      "notes": "Not marked published until custom-domain verification succeeds. Clean clone from eae62f8732beae1b1bf50c01cd45e68453e120f8 preserves original workspace. Previous goodwill article reconciled with live expected H1."
+      "notes": "Published on main and verified on custom domain after successful Cloudflare deployment. Original workspace and workbook preserved. Local and live viewport screenshots inspected at 390 and 1440 pixels. Full-page mobile capture initially had Chrome resizing artifacts; reloading at each viewport resolved viewport capture. No RSS/feed exists.",
+      "publicationDate": "2026-10-28",
+      "verifiedAt": "2026-10-28T15:22:17.250405+00:00",
+      "commit": "c7fe237ce8718b23e21e8c26898e62cf1cdd8c71"
     }
   ]
 }
