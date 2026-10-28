@@ -1,6 +1,6 @@
 {
   "domain": "dentalbrokerteam.com",
-  "lastRunAt": "2026-10-16T23:17:36.428751+02:00",
+  "lastRunAt": "2026-10-28T15:20:11.648695+00:00",
   "items": [
     {
       "keyword": "best dental practice brokers in Ontario",
@@ -1537,6 +1537,78 @@
       "publicationDate": "2026-10-16",
       "verifiedAt": "2026-10-16T23:17:36.428751+02:00",
       "commit": "6caa5cabc75f0b8a5d83d59f119df755c4c549b5"
+    },
+    {
+      "keyword": "dental practice asset sale vs share sale",
+      "slug": "dental-practice-asset-sale-vs-share-sale",
+      "title": "Dental Practice Asset Sale vs Share Sale: 7 Key Decisions",
+      "status": "validated",
+      "priority": "Baja",
+      "workbookTopic": 26,
+      "url": "https://dentalbrokerteam.com/blog/dental-practice-asset-sale-vs-share-sale/",
+      "image": "/assets/blog/dental-practice-asset-sale-vs-share-sale-20261028.webp",
+      "serpTarget": "Google Canada / Ontario",
+      "researchCheckedAt": "2026-10-28T15:20:11.648695+00:00",
+      "serpNotes": {
+        "method": "Current web searches with Ontario/Canada modifiers and inspection of relevant result pages. Exact location-locked Google ranking was not exposed; no exact position claims. Approximate body lengths estimated from extracted content, not measured competitor counts.",
+        "intent": "BOFU commercial comparison of transaction structure before LOI or purchase terms; professional legal/accounting explainers dominate rather than provider rankings.",
+        "observations": [
+          "Lamba Law Ontario buyer checklist: approximately 1500-2200 words; dated August 2026, marked pending lawyer review; sequential H2 checklist, no visible TOC/video in extraction; corporate ownership, PHIPA, lease, financing and closing. Not used as sole authority for legal claims.",
+          "Cadence dental purchase guide: approximately 1100-1600 words; named founder Matthew Reeves; TOC, numbered arguments, footnotes and tax/loan sections. Recommends shares subject to provincial permission; numerical tax claims and universal recommendations not reproduced.",
+          "Emerge buyer guide: approximately 1800-2600 words; named Hani Al-Dajane, dental equipment image, long planning/financial/incorporation/financing/process guide. Financial benchmarks not reused; broader acquisition coverage rather than focused decision comparison.",
+          "Delta Law Ontario checklist: approximately 700-1000 words, dated February 2025, firm attribution, numbered H2/H3, image, no visible TOC/video; assets/shares, diligence, employment and lease issues. Structure is one of several short sections.",
+          "Practice Succession Canada comparison appeared in results but could not be inspected reliably; excluded from factual support and no claims made about its full contents.",
+          "Primary support reviewed: BDC acquisition guide (TOC, five-minute read, institutional author); CRA buying-existing-business guidance (asset allocation, share tax values); two RCDSO guidance pages (corporations and change of ownership).",
+          "Entities/questions: asset schedules, corporate history, price allocation, liabilities, change of control, employment, patient records, lender security and certificate of authorization. Gap: compare complete offers using evidence and open issues without declaring shares or assets universally better."
+        ],
+        "sources": [
+          "https://www.lambalaw.ca/insights/buying-dental-practice-ontario",
+          "https://cadencetax.ca/guides/dental-practice-purchase/",
+          "https://emergelaw.ca/dental-practice-guide-buyers/",
+          "https://www.deltalawfirm.ca/post/buying-a-dental-practice-in-ontario-legal-checklist-for-dentists",
+          "https://www.bdc.ca/en/articles-tools/start-buy-business/buy-business/due-diligence-valuation",
+          "https://www.canada.ca/en/revenue-agency/services/tax/businesses/small-businesses-self-employed-income/setting-your-business/bringing-assets-into-a-business/buying-existing-business.html",
+          "https://www.rcdso.org/en-ca/permits-and-renewals/health-profession-corporations",
+          "https://www.rcdso.org/en-ca/standards-guidelines-resources/rcdso-news/frequently-asked-questions/information-on-change-of-practice-ownership-and-retiring-"
+        ]
+      },
+      "cannibalizationReview": "Existing tax article owns seller tax planning and exemption/election questions. New article owns buyer comparison of the operating package and obligations under two structures, with tax details limited and linked to existing guide. Existing general due-diligence article linked, not duplicated.",
+      "claims": {
+        "verified": "CRA asset allocation and unchanged underlying tax values on share transfer; BDC liabilities in share acquisitions; RCDSO certificate/notification and patient-record duties.",
+        "editorialInference": "Seven-decision framework, issue register, comparison of offer scope and hypothetical non-numerical example.",
+        "firsthandEvidence": "None. No invented experience, reviews, market prices, savings, tax rates or expert attribution."
+      },
+      "internalLinks": [
+        "/blog/dental-practice-sale-tax-considerations-canada/",
+        "/blog/dental-practice-due-diligence-checklist-canada/",
+        "/appraisals/"
+      ],
+      "editorialReview": {
+        "secondPassCompleted": true,
+        "findings": "Separate post-draft review checked intent, headings, claims, FAQ/schema agreement, citations and original prose. No blanket liability exclusions or automatic tax benefits. RCDSO rules cited directly. No template instructions or invented individual author. All important findings resolved.",
+        "videoDecision": "No video added: this legal/financial comparison benefits from directly linked written primary guidance, no verified demonstration needed."
+      },
+      "imageGeneration": {
+        "tool": "Built-in image_gen",
+        "prompt": "Wide 16:9 original conceptual editorial illustration: miniature unoccupied dental clinic beside separate dental equipment and a closed corporate document folder on a light wood desk, warm ivory/navy/teal, no people, logos, text or currency.",
+        "dimensions": "1672x941",
+        "bytes": 109592,
+        "disclosure": "Visible AI-generated conceptual illustration caption."
+      },
+      "verification": {
+        "wordCount": 1819,
+        "localBuildPassed": true,
+        "npmCiPassed": true,
+        "diffCheckPassed": true,
+        "lint": "No lint script configured",
+        "tests": "No test script configured",
+        "externalBodyLinks": 4,
+        "internalBodyLinks": 3,
+        "localBrowserQaPassed": true,
+        "FAQMatchesSchema": true,
+        "feed": "No RSS/feed in repository; blog index and sitemap updated."
+      },
+      "notes": "Not marked published until custom-domain verification succeeds. Clean clone from eae62f8732beae1b1bf50c01cd45e68453e120f8 preserves original workspace. Previous goodwill article reconciled with live expected H1."
     }
   ]
 }
