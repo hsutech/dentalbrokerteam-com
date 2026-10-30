@@ -1,6 +1,6 @@
 {
   "domain": "dentalbrokerteam.com",
-  "lastRunAt": "2026-10-28T15:22:17.250405+00:00",
+  "lastRunAt": "2026-10-30",
   "items": [
     {
       "keyword": "best dental practice brokers in Ontario",
@@ -1627,6 +1627,99 @@
       "publicationDate": "2026-10-28",
       "verifiedAt": "2026-10-28T15:22:17.250405+00:00",
       "commit": "c7fe237ce8718b23e21e8c26898e62cf1cdd8c71"
+    },
+    {
+      "keyword": "retiring dentist succession planning Ontario",
+      "workbookTopic": 27,
+      "slug": "retiring-dentist-succession-planning-ontario",
+      "title": "Retiring Dentist Succession Planning in Ontario: 7 Decisions",
+      "status": "validated",
+      "priority": "Baja",
+      "url": "https://dentalbrokerteam.com/blog/retiring-dentist-succession-planning-ontario/",
+      "image": "/assets/blog/retiring-dentist-succession-planning-ontario-20261030.webp",
+      "researchCheckedAt": "2026-10-30",
+      "serpNotes": {
+        "keyword": "retiring dentist succession planning Ontario",
+        "workbookTopic": 27,
+        "checkedAt": "2026-10-30",
+        "market": "Ontario, Canada",
+        "language": "English",
+        "method": "Current Ontario/Canada web searches and full-page inspection of relevant results. Exact location-locked Google ranking unavailable. Length estimates refer to extracted editorial content, not measured word counts.",
+        "intent": "BOFU succession route comparison and retirement readiness; professional explainers and regulator FAQs dominate, not ranked provider lists.",
+        "observations": [
+          "Siskinds: short service page approximately 250-400 words, institutional attribution with named lawyer contact; no TOC, lawyer portrait; proceeds destination and corporate structure, little practical route comparison.",
+          "Blackburn: approximately 300 words, July 2024 firm article, three numbered H3s; no visible TOC/video, early planning, advisors, contracts and records.",
+          "EBIKO: approximately 1800-2400 words, September 2026 branded guide, hero image, numbered steps and transition models; no visible TOC/video. Valuation, financials, lease, associate, DSO and regulatory issues. Unsubstantiated statistics, multiples and appraisal pricing excluded.",
+          "Emerge: approximately 2300-3200 words, named Hani Al-Dajane, extensive headings and footnotes, dental image; covers post-sale role, corporate planning, documents and purchasers. Market and numerical claims not reused.",
+          "CIBC Pharus: approximately 1400-1900 words, Derek Kohalmi attribution, life-stage headings and questions, images in related articles; broad financial lifecycle. Tax figures not reused.",
+          "Wipfli: approximately 800-1200 words, named authors and dated article, four numbered options, no visible TOC/video. US context limits Ontario legal usefulness; used only to understand intent.",
+          "RBC: six-page institutional PDF, approximately 2300-2900 words, section headings and multi-column layout; internal/external dental succession and retirement capital. Historical tax/earn-out generalizations excluded.",
+          "DMC Planning Ahead: two-page authored magazine PDF with hypothetical dentist story, approximately 900-1300 words; images/byline and takeaway list; no TOC/video. Tax amounts and fictional outcome not reused.",
+          "RCDSO ownership FAQ: approximately 1500 words, regulator question-answer reference, no editorial TOC/media. Records, notification, ongoing care, resignation and corporate notices.",
+          "RCDSO renewal FAQ: lengthy institutional reference with linked question navigation, no editorial image; clear separation of retirement, registration and quality assurance.",
+          "Immunis result could not be read in full; excluded from evidence. Physician-specific OMA/HealthForce results excluded from dental guidance.",
+          "Gap: compare a preferred retirement route with a funded fallback, define ownership and clinical exit separately, and specify what to request from each advisor. Entities: associate buyer, external purchaser, DSO, corporation, RCDSO, records custodian, net proceeds, deferred consideration, lease, incapacity. Questions: can I keep working, who succeeds me, what if buyer withdraws, who holds records?",
+          "Second-pass correction: RBC PDF returns HTTP 404 directly despite web extraction. Removed its article citation and replaced with BDC exit guide (institutional six-minute read, TOC, named BDC specialist, succession/sale/closure)."
+        ],
+        "sources": [
+          "https://www.siskinds.com/retirement-and-succession-planning-dentists/",
+          "https://blackburnlawyers.ca/blog/keys-for-crafting-a-transition-plan-for-your-dental-practice/",
+          "https://ebiko.ca/blogs/business-4-dentist/how-to-build-a-dental-practice-succession-plan-that-protects-your-legacy-in-ontario",
+          "https://emergelaw.ca/dental-practice-guide-sellers/",
+          "https://woodgundyadvisors.cibc.com/pharus-wealth-advisory-group/blog/33409285-Wealth-Planning-for-Dentists-in-Canada/",
+          "https://www.wipfli.com/insights/articles/hc-4-options-for-selling-a-dental-practice",
+          "https://ca.rbcwealthmanagement.com/documents/3922822/4565167/wealth-planning-for-health-care-professionals-preparing-for-retirement.pdf/0a58f67f-5746-4aed-8b8a-e4d4c6debb13",
+          "https://dentistlawyers.ca/wp-content/uploads/2025/02/2025-03_OHO-PlanningAhead_MC-SD.pdf",
+          "https://www.rcdso.org/en-ca/standards-guidelines-resources/rcdso-news/frequently-asked-questions/information-on-change-of-practice-ownership-and-retiring-",
+          "https://www.rcdso.org/permits-and-renewals/annual-license-renewal/renewal-faqs",
+          "https://www.bdc.ca/en/articles-tools/change-ownership/plan-succession/thinking-about-retiring-how-plan-your-exit"
+        ],
+        "brief": {
+          "title": "Retiring Dentist Succession Planning in Ontario: 7 Decisions",
+          "slug": "retiring-dentist-succession-planning-ontario",
+          "length": "1800-2200 words",
+          "angle": "Retirement fit and successor choice, distinct from sale preparation and transaction timeline",
+          "outline": [
+            "Direct answer",
+            "Exit route comparison",
+            "Seven decisions",
+            "Advisor meeting brief",
+            "Five FAQs"
+          ],
+          "claims": "Primary RCDSO guidance for regulatory facts, RBC and Siskinds for general transition/retirement context; original decision questions and example labelled editorial; no prices, returns, market ranking or firsthand claims",
+          "video": "Not included: no verified demonstration would add material evidence to this written decision guide"
+        }
+      },
+      "cannibalizationReview": "Retirement feasibility, successor choice and fallback; distinct from pre-listing improvements, sale transaction timeline, buyer buy-in and tax articles. Four contextual internal links provide detail without reproducing those topics.",
+      "claims": {
+        "verified": "RCDSO registration, records and notification guidance; BDC broad exit routes; Siskinds proceeds destination context.",
+        "editorialInference": "Seven decisions, route comparison, advisor brief and clearly hypothetical work-schedule example.",
+        "firsthandEvidence": "None."
+      },
+      "imageGeneration": {
+        "tool": "Built-in image_gen",
+        "dimensions": "1672x941",
+        "bytes": 127808,
+        "disclosure": "Visible AI conceptual illustration caption"
+      },
+      "editorialReview": {
+        "secondPassCompleted": true,
+        "findings": "Separate post-draft editorial/SEO pass checked all prose, intent, primary support, originality, headings, metadata, schema, links, image/alt and competing pages. Corrected broken RBC citation with live BDC source. No important unresolved issues; no invented experience, prices or results.",
+        "videoDecision": "No video needed: written primary guidance and comparison answer this planning intent."
+      },
+      "verification": {
+        "wordCount": 1836,
+        "npmCiPassed": true,
+        "localBuildPassed": true,
+        "diffCheckPassed": true,
+        "lint": "No lint script configured",
+        "tests": "No test script configured",
+        "internalBodyLinks": 4,
+        "externalBodyLinks": 4,
+        "localBrowserQaPassed": true,
+        "FAQMatchesSchema": true,
+        "feed": "No RSS/feed; index and sitemap updated"
+      }
     }
   ]
 }
