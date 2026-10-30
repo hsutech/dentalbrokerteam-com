@@ -1,6 +1,6 @@
 {
   "domain": "dentalbrokerteam.com",
-  "lastRunAt": "2026-10-30",
+  "lastRunAt": "2026-10-30T06:26:01.920990+00:00",
   "items": [
     {
       "keyword": "best dental practice brokers in Ontario",
@@ -1633,7 +1633,7 @@
       "workbookTopic": 27,
       "slug": "retiring-dentist-succession-planning-ontario",
       "title": "Retiring Dentist Succession Planning in Ontario: 7 Decisions",
-      "status": "validated",
+      "status": "published",
       "priority": "Baja",
       "url": "https://dentalbrokerteam.com/blog/retiring-dentist-succession-planning-ontario/",
       "image": "/assets/blog/retiring-dentist-succession-planning-ontario-20261030.webp",
@@ -1718,8 +1718,27 @@
         "externalBodyLinks": 4,
         "localBrowserQaPassed": true,
         "FAQMatchesSchema": true,
-        "feed": "No RSS/feed; index and sitemap updated"
-      }
+        "feed": "No RSS/feed; index and sitemap updated",
+        "articleHttpStatus": 200,
+        "imageHttpStatus": 200,
+        "imageContentType": "image/webp",
+        "h1Verified": true,
+        "canonicalCorrect": true,
+        "openGraphCorrect": true,
+        "blogIndexContainsSlug": true,
+        "sitemapContainsSlug": true,
+        "desktopRenderOk": true,
+        "mobileRenderOk": true,
+        "horizontalOverflow": false,
+        "externalLinksHttp200": true,
+        "liveVerificationAttempts": 1,
+        "deploymentId": 41013959450,
+        "deploymentConclusion": "success"
+      },
+      "commit": "d0d6cc57ed897963c34defeb1efae25b3f220316",
+      "notes": "Cloudflare deployment 41013959450 succeeded. First live verification passed on custom domain. Desktop/mobile screenshots inspected; no horizontal page overflow; comparison table scrolls within labelled keyboard-focusable region. Original workspace and workbook preserved; machine publication state is authoritative.",
+      "publicationDate": "2026-10-30",
+      "verifiedAt": "2026-10-30T06:26:01.920990+00:00"
     }
   ]
 }
