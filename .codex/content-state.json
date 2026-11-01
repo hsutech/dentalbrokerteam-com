@@ -1,6 +1,6 @@
 {
   "domain": "dentalbrokerteam.com",
-  "lastRunAt": "2026-10-30T06:26:01.920990+00:00",
+  "lastRunAt": "2026-11-01T12:49:36.612503+00:00",
   "items": [
     {
       "keyword": "best dental practice brokers in Ontario",
@@ -1739,6 +1739,107 @@
       "notes": "Cloudflare deployment 41013959450 succeeded. First live verification passed on custom domain. Desktop/mobile screenshots inspected; no horizontal page overflow; comparison table scrolls within labelled keyboard-focusable region. Original workspace and workbook preserved; machine publication state is authoritative.",
       "publicationDate": "2026-10-30",
       "verifiedAt": "2026-10-30T06:26:01.920990+00:00"
+    },
+    {
+      "keyword": "dental practice buyer financing Canada",
+      "workbookTopic": 28,
+      "priority": "Baja",
+      "status": "skipped",
+      "reason": "Duplicate buyer financing intent already covered by dental-practice-financing-canada and dental-practice-acquisition-financing-file. Current financing search results confirm same lender-readiness intent.",
+      "checkedAt": "2026-11-01"
+    },
+    {
+      "keyword": "The Dental Broker Team reviews",
+      "workbookTopic": 29,
+      "priority": "Baja",
+      "slug": "the-dental-broker-team-reviews",
+      "title": "The Dental Broker Team Reviews: What You Can Verify",
+      "status": "validated",
+      "url": "https://dentalbrokerteam.com/blog/the-dental-broker-team-reviews/",
+      "image": "/assets/blog/the-dental-broker-team-reviews-20261101.webp",
+      "researchCheckedAt": "2026-11-01",
+      "serpNotes": {
+        "keyword": "The Dental Broker Team reviews",
+        "workbookTopic": 29,
+        "checkedAt": "2026-11-01",
+        "market": "Ontario, Canada",
+        "language": "English",
+        "method": "Current web searches for branded reviews and Ontario variants; relevant source pages opened. Exact location-locked Google positions unavailable; no claim of top-ten ranking. Sparse unique relevant results; duplicate French directory pages, unrelated dental clinics and general financing results excluded. Lengths approximate extracted content, not measured counts. Sources refreshed November 1 after environment date rollover.",
+        "intent": "BOFU branded reputation investigation. Results mix own-site guides, professional publications, career biographies and directory listings, not a reliable independent review corpus.",
+        "observations": [
+          "Own-site broker review guide: approximately 1500-2000 words, organization author, TOC, seven generic signals, five FAQs and hero image; already covers general Ontario review selection. New article is a specific public-source audit with publisher disclosure.",
+          "Own-site best brokers and buyer brokers guides: long commercial frameworks approximately 1500-2000 words, organization bylines, TOC/images and FAQs; not independent branded reviews. Buyer guide opened; best-brokers web fetch failed, local full source inspected.",
+          "CDA Oasis April 23 2019: approximately 250-350 words excluding transcript, institutional byline, named interviewee and affiliation, subject bullets, Vimeo preview/full interview and PDF transcript, no TOC. Covers practice value and cash flow, not customer feedback.",
+          "March 2019 Ontario Dentist appraisal PDF: two pages, roughly 1000-1300 words, named Robertson/Griffith authors with affiliations, appraisal and normalized cash flow subheads, no TOC, professional magazine layout. Argument, not independent customer outcome study. Historical market claims excluded.",
+          "Dental Career Options: approximately 1100-1500 words across profiles, institutional resource page, named contributors, images/audio/transcripts, section headings but no article TOC. Robertson biography identifies historical affiliation; no dated current service promise or client rating.",
+          "RBC buying-practice article: search identifies named Robertson contribution, but full-page extraction returned dynamic article shell. Excluded from factual citations because content could not be inspected.",
+          "FindOpen branded listing: short address/hours directory result, no expert byline or editorial TOC; full fetch failed. Not used to assert current address, hours or ratings.",
+          "Cylex Burlington listing: directory categories mix dental clinics and brokerage result; full fetch failed. No inference from nearby businesses' reviews. Duplicate locale versions excluded.",
+          "ODA 2023 speaker PDF and Oral Health 2022 issue surfaced but not relied on; historical professional biography is not client feedback.",
+          "RECO registration guidance: approximately 250-400 editorial words plus navigation; institutional author, heading/list format, official register link, no TOC or customer reviews. Supports only how readers can verify current registration, not any firm-specific finding."
+        ],
+        "entities": [
+          "The Dental Broker Team",
+          "Sean Robertson",
+          "Michael Griffith",
+          "CDA Oasis",
+          "Dental Career Options",
+          "RECO",
+          "Ontario",
+          "Burlington"
+        ],
+        "questions": [
+          "Is this independent?",
+          "Are interviews testimonials?",
+          "What do dated biographies prove?",
+          "Is a Google rating verified?",
+          "What current information should a prospective client request?"
+        ],
+        "gap": "Transparent branded evidence inventory separates historical authorship, independent hosting and actual customer experience; no invented rating or implied endorsement.",
+        "sources": [
+          "https://oasisdiscussions.ca/2019/04/23/what-can-i-do-to-increase-the-value-of-my-dental-practice/",
+          "https://oasisdiscussions.ca/wp-content/uploads/2019/04/OD_Mar_2019_Practice_Appraisal_V2-copy.pdf",
+          "https://dentalcareeroptions.ca/buying-a-practice/resources/",
+          "https://www.reco.on.ca/consumers/make-sure-your-real-estate-agent-is-registered/"
+        ],
+        "videoDecision": "Relevant verified interview is Vimeo on CDA Oasis, linked through original source. No verified relevant YouTube video added; no invented embed.",
+        "claims": {
+          "verified": "Original publication dates, authorship, affiliation as historically described and source types; RECO public-register guidance.",
+          "editorialInference": "Evidence hierarchy, proposal comparison and seven verification checks.",
+          "firsthandEvidence": "None. No claims of customer experience, rating, current fees, sale outcomes or firm registration findings."
+        }
+      },
+      "sources": [
+        "https://oasisdiscussions.ca/2019/04/23/what-can-i-do-to-increase-the-value-of-my-dental-practice/",
+        "https://oasisdiscussions.ca/wp-content/uploads/2019/04/OD_Mar_2019_Practice_Appraisal_V2-copy.pdf",
+        "https://dentalcareeroptions.ca/buying-a-practice/resources/",
+        "https://www.reco.on.ca/consumers/make-sure-your-real-estate-agent-is-registered/"
+      ],
+      "cannibalizationReview": "Specific branded public-source audit; distinguishes dated professional publications and bios from actual client reviews. General Ontario broker review guide remains broader; zero shared 12-word body sequences in static comparison. No unsupported review corpus or star score invented.",
+      "editorialReview": {
+        "secondPassCompleted": true,
+        "reviewer": "Separate post-draft editorial pass by primary agent",
+        "result": "No critical or important issues remain. Four source-specific claims checked, historical dates preserved, own-site disclosure visible, no Review/aggregateRating schema, source-derived summaries bounded, no copied passages or template instructions. Publication date corrected to November 1 after rollover.",
+        "limitations": "Exact Google Ontario ranking and representative independent client review corpus unavailable; disclosed rather than fabricated."
+      },
+      "imageGeneration": {
+        "tool": "Built-in image_gen",
+        "prompt": "Wide 16:9 editorial still life: magnifying glass over blank cream cards, white tooth model and navy folder, softly blurred dental clinic; muted teal/navy/ivory; no people, text, logos, certificates or ratings.",
+        "dimensions": "1672x941",
+        "bytes": 95230,
+        "disclosure": "Visible AI conceptual illustration caption"
+      },
+      "verification": {
+        "wordCount": 1668,
+        "internalBodyLinks": 4,
+        "externalBodyLinks": 4,
+        "build": "passed",
+        "lint": "No script configured",
+        "tests": "No test script configured; static and browser QA passed",
+        "localDesktopMobile": "390/1440 screenshots inspected; unique H1, canonical, OG, image, FAQ equality, anchors and no page overflow verified",
+        "feed": "No feed configured",
+        "liveVerified": false
+      }
     }
   ]
 }
