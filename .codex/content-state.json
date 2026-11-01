@@ -1,6 +1,6 @@
 {
   "domain": "dentalbrokerteam.com",
-  "lastRunAt": "2026-11-01T12:49:36.612503+00:00",
+  "lastRunAt": "2026-11-01T12:52:30.305830+00:00",
   "items": [
     {
       "keyword": "best dental practice brokers in Ontario",
@@ -1754,7 +1754,7 @@
       "priority": "Baja",
       "slug": "the-dental-broker-team-reviews",
       "title": "The Dental Broker Team Reviews: What You Can Verify",
-      "status": "validated",
+      "status": "published",
       "url": "https://dentalbrokerteam.com/blog/the-dental-broker-team-reviews/",
       "image": "/assets/blog/the-dental-broker-team-reviews-20261101.webp",
       "researchCheckedAt": "2026-11-01",
@@ -1838,8 +1838,25 @@
         "tests": "No test script configured; static and browser QA passed",
         "localDesktopMobile": "390/1440 screenshots inspected; unique H1, canonical, OG, image, FAQ equality, anchors and no page overflow verified",
         "feed": "No feed configured",
-        "liveVerified": false
-      }
+        "liveVerified": true,
+        "liveAttempts": 2,
+        "httpStatus": 200,
+        "h1": "passed",
+        "canonical": "passed",
+        "openGraph": "passed",
+        "image": "200 image/webp, 1672px natural width",
+        "blogIndex": "present",
+        "sitemap": "present",
+        "internalLinks": "all 200",
+        "faqSchema": "matches visible content",
+        "desktopMobile": "390/1440 live screenshots inspected; no horizontal page overflow",
+        "deploymentId": 41308358271,
+        "deploymentConclusion": "success"
+      },
+      "publicationDate": "2026-11-01",
+      "commit": "d6fd99f525b3b8851e096937601c969d2f676a1d",
+      "verifiedAt": "2026-11-01T12:52:30.305830+00:00",
+      "notes": "First live attempt served fallback homepage while deployment was in progress. Second attempt after wait passed all checks. Marked published only after live verification. Original workspace and workbook preserved."
     }
   ]
 }
