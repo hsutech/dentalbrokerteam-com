@@ -1,6 +1,6 @@
 {
   "domain": "dentalbrokerteam.com",
-  "lastRunAt": "2026-11-01T12:52:30.305830+00:00",
+  "lastRunAt": "2026-11-02T05:34:02.259473+00:00",
   "items": [
     {
       "keyword": "best dental practice brokers in Ontario",
@@ -1857,6 +1857,64 @@
       "commit": "d6fd99f525b3b8851e096937601c969d2f676a1d",
       "verifiedAt": "2026-11-01T12:52:30.305830+00:00",
       "notes": "First live attempt served fallback homepage while deployment was in progress. Second attempt after wait passed all checks. Marked published only after live verification. Original workspace and workbook preserved."
+    },
+    {
+      "keyword": "The Dental Broker Team alternatives",
+      "slug": "the-dental-broker-team-alternatives",
+      "title": "The Dental Broker Team Alternatives: 4 Options to Compare",
+      "status": "validated",
+      "url": "https://dentalbrokerteam.com/blog/the-dental-broker-team-alternatives/",
+      "priority": "Baja",
+      "serpTarget": "Google Canada / Ontario",
+      "researchFile": ".codex/research/2026-11-02-alternatives.md",
+      "sources": [
+        "https://roicorp.com/",
+        "https://tierthree.ca/",
+        "https://www.ppsales.com/ontario/",
+        "https://dentalplace.ca/about/"
+      ],
+      "serpNotes": "Brand results sparse; relevant commercial provider pages inspected. Exact geolocated Google positions unavailable; no invented ranking. Details in research ledger.",
+      "cannibalizationReview": "Named-provider shortlist for brand alternatives; existing Toronto alternatives article covers transaction routes, general best-broker article covers criteria.",
+      "editorialReview": {
+        "secondPassCompleted": true,
+        "findings": "Separate full post-draft review: public service claims supported by provider pages; publisher conflict disclosed; no independent rating, invented experience, prices or results. Seven proposal criteria are editorial suggestions. Metadata, FAQ match, original prose, image disclosure and links checked. No critical or important issues outstanding.",
+        "videoDecision": "No video adds evidence to service-scope comparison."
+      },
+      "image": "/assets/blog/the-dental-broker-team-alternatives-20261102.webp",
+      "imageGeneration": {
+        "tool": "Built-in image_gen",
+        "prompt": "Four unbranded document folders on pale oak consultation desk, model modern dental clinic, teal/navy/warm white, conceptual editorial illustration, no people/logos/writing/numbers/ratings.",
+        "dimensions": "1672x941",
+        "bytes": 110366
+      },
+      "verification": {
+        "wordCount": 1774,
+        "npmCiPassed": true,
+        "localBuildPassed": true,
+        "diffCheckPassed": true,
+        "lint": "No lint script configured",
+        "tests": "No test script configured",
+        "localBrowser": {
+          "mode": "local",
+          "articleHttp": 200,
+          "h1": true,
+          "canonical": true,
+          "og": true,
+          "schemas": true,
+          "imageHttp": 200,
+          "blog": true,
+          "sitemap": true,
+          "mobile": true,
+          "desktop": true,
+          "overflow": false,
+          "bodyInternalLinks": 4,
+          "bodyExternalLinks": 4
+        },
+        "screenshotsReviewed": true,
+        "externalLinksHttp200": true,
+        "feed": "No RSS/feed; blog and sitemap updated"
+      },
+      "notes": "Original unpublished draft and generated image refreshed onto current main; no prior state overwritten. Awaiting deployment verification."
     }
   ]
 }
