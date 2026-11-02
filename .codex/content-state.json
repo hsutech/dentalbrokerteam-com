@@ -1,6 +1,6 @@
 {
   "domain": "dentalbrokerteam.com",
-  "lastRunAt": "2026-11-02T05:34:02.259473+00:00",
+  "lastRunAt": "2026-11-02T06:04:26.756309+00:00",
   "items": [
     {
       "keyword": "best dental practice brokers in Ontario",
@@ -1862,7 +1862,7 @@
       "keyword": "The Dental Broker Team alternatives",
       "slug": "the-dental-broker-team-alternatives",
       "title": "The Dental Broker Team Alternatives: 4 Options to Compare",
-      "status": "validated",
+      "status": "published",
       "url": "https://dentalbrokerteam.com/blog/the-dental-broker-team-alternatives/",
       "priority": "Baja",
       "serpTarget": "Google Canada / Ontario",
@@ -1912,9 +1912,31 @@
         },
         "screenshotsReviewed": true,
         "externalLinksHttp200": true,
-        "feed": "No RSS/feed; blog and sitemap updated"
+        "feed": "No RSS/feed; blog and sitemap updated",
+        "liveBrowser": {
+          "mode": "live",
+          "articleHttp": 200,
+          "h1": true,
+          "canonical": true,
+          "og": true,
+          "schemas": true,
+          "imageHttp": 200,
+          "blog": true,
+          "sitemap": true,
+          "mobile": true,
+          "desktop": true,
+          "overflow": false,
+          "bodyInternalLinks": 4,
+          "bodyExternalLinks": 4
+        },
+        "liveVerificationAttempts": 1,
+        "deploymentId": 41394845847,
+        "deploymentConclusion": "success"
       },
-      "notes": "Original unpublished draft and generated image refreshed onto current main; no prior state overwritten. Awaiting deployment verification."
+      "notes": "Live verified after successful Cloudflare deployment: HTTP 200, exact H1/canonical/OG, image loaded, blog/sitemap present, 390/1440 screenshots reviewed, no overflow. Final workbook topic processed; all planned keywords published or skipped.",
+      "publicationDate": "2026-11-02",
+      "verifiedAt": "2026-11-02T06:04:26.756309+00:00",
+      "commit": "b118bccf55cc66a34012a05af2a588a97df046ec"
     }
   ]
 }
